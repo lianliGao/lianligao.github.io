@@ -57,7 +57,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" width="100%" height="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800""></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
@@ -92,7 +92,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
-Lianli Gao(Supervisor First Author), **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
+Lianli Gao(**Supervisor First Author**), **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <!-- **Code**  -->
