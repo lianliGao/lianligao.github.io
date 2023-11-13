@@ -57,7 +57,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800""></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
