@@ -17,104 +17,122 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Mouxing Yang (杨谋星). I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me).
+Hi, My name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/).
 
-My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in the wild, e.g., missing modality and noisy correspondence.
+My research interests mainly focus are Machine Learning, Deep Learning, and Computer Vision and Multimedia Learning etc.
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.07*: &nbsp; One paper was accepted by International Conference on Computer Vision (ICCV 2023).
-- *2023.04*: &nbsp; One paper was accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
-- *2022.06*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
-- *2022.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2022).
-- *2022.02*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2021.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2021).
+- *2023.08*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2023).
+- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
+- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
+- *2023.03*: &nbsp; One paper was accepted by International Symposium on Artificial Intelligence and Robotics (ISAIR 2023).
+- *2023.02*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).
+- *2022.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2022).
+- *2022.07*: &nbsp; Two papers were accepted by IEEE International Conference on Multimedia and Expo (ICME 2022).
+- *2022.06*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognitionn (CVPR 2022).
+- *2021.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2021).
+- *2021.06*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
+- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019).
+
 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) \\
- **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
+[Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
+ **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
 
-<a href="https://www.bilibili.com/video/BV1bS4y1h7k3/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
-\|
-<a href="https://cs.scu.edu.cn/info/1246/16829.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-CVPR-DART"><strong>Code</strong></a>
+<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2022-CVPR-DART?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-CVPR-DART)
+
 
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-**Reveal the twin noisy label problem (noisy annotation and the accompanying noisy correspondence).**
+**Ensuring balanced and efficient learning process for fine-grained scene graph generation.**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/papers/sure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf) \\
- **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
+[Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
+ **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
 
-
-<a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-SURE"><strong>Code</strong></a>
+<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-SURE?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-**The FIRST unified multi-view learning framework to solve both Partially View-unaligned Problem (PVP) and Partially Sample-missing Problem (PSP).** 
+<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+**Aims at differentiating hard-to-distinguish predicates for SGG.**
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/papers/mvcln.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf) \\
-**Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
 
-<a href="https://www.bilibili.com/video/BV1JT4y1d7wT/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
-\|
-<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2021-CVPR-MvCLN"><strong>Code</strong></a>
+[Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
+**Chaofan Zheng**, **Xinyu Lyu**, Lianli Gao, Bo Dai, Jingkuan Song
+
+<a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
 <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-MvCLN?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-**Design a false-negative (FN) robust contrastive loss and validate the loss in unsupervised multi-view clustering and classification tasks.**
+**Acquiring robust features for reliable relation prediction in SGG.**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
+**Lianli Gao**, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
+
+<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
+<!-- **Code**  -->
+
+**Acquiring robust features for reliable relation prediction in SGG.**
+
+</div>
+</div>
+
+
 
 </div></div>
 
-- `ICCV 2023` [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085.pdf), Yijie Lin, **Mouxing Yang**, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
-
-- `IJCAI 2023` [Incomplete Multi-view Clustering via Prototype-based Imputation](https://arxiv.org/pdf/2301.11045.pdf), Haobin Li, Yunfan Li, **Mouxing Yang**, Peng Hu, Dezhong Peng, Xi Peng 
-
-- `IJCV 2022`  [Twin Contrastive Learning for Online Clustering](http://pengxi.me/wp-content/uploads/2022/07/Twin-Contrastive-Learning-for-Online-Clustering.pdf), Yunfan Li, **Mouxing Yang**, Dezhong Peng, Taihao Li, Jiantao Huang, Xi Peng
-
+- `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
+- `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen
+- `ISAIR 2023` [Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274.pdf), **Xinyu Lyu**, Jingwei Liu, Yuyu Guo, Lianli Gao
+- `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao
+- `ICME 2022` [Multi-Scale Graph Attention Network for Scene Graph Generation](https://ieeexplore.ieee.org/document/9859970), Min Chen, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao
+- `ACM MM 2022`  [Dynamic Scene Graph Generation via Temporal Prior Inference](https://dl.acm.org/doi/abs/10.1145/3503161.3548324), Shuang Wang, Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song
+- `ACM MM 2021`  (oral)[Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Shuaiqi Jing, Jingkuan Song
+- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **Xinyu Lyu**, Jingkuan Song, Lianli Gao
+- `ACM MM 2019`  (oral)[Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Lei Zhao, Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic
 <!-- under review -->
 
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2022.10* National Scholarship
-- *2021.10* National Scholarship
+- *2021.10* National Scholarship-->
 
 
-<!-- # 📖 Educations
-- 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
-- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
+# 📖 Educations
+- 2020.09 - now, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
+- 2017.09 - 2019.06, Master student, Rutgers University, New Jersey. 
+- 2014.09 - 2018.06, Undergraduate, University of Electronic Science and Technology of China, Chengdu.
 
 
-<!-- 
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.05*, 2023 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. 
+- *2022.05*, 2022 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan.  
+- *2022.05*, 2022 ChinaMM (Technical Forum: MM-CV High Impact Paper Appreciation Forum), Kunming, Yunan.
 
 
 # 💻 
@@ -123,11 +141,11 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-- **Journal Reviewer**: IEEE TPAMI, IEEE TCSVT, IEEE TSMC, etc.
-
-- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, AAAI, etc.
-<!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
+- **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT, IEEE TMM, IEEE TGRS, etc.
+- **Conference Reviewer**: CVPR, NeurIPS, ACM MM, AAAI, EMNLP, ICPR, etc.
+<!-- - Conference Reviewer: of CVPR 2023/2024, NeurIPS 2022/2023, ACM MM 2021/2023, ICCV 2023, AAAI 2020/2024, EMNLP 2024, ICPR2020. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
+- **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022 ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .
 
 <!-- 
 # 💬 Talks ~
