@@ -57,7 +57,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" width="100%" height="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
@@ -74,11 +74,11 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
-**Chaofan Zheng**, **Xinyu Lyu**, Lianli Gao, Bo Dai, Jingkuan Song
+**Chaofan Zheng**, **Xinyu Lyu(Equal Contribution)**, Lianli Gao, Bo Dai, Jingkuan Song
 
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
 <!-- **Code**  -->
@@ -92,7 +92,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
-**Lianli Gao**, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
+Lianli Gao(Supervisor First Author), **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <!-- **Code**  -->
@@ -105,15 +105,15 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 
 
-- `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
-- `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen
-- `ISAIR 2023` [Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274.pdf), **Xinyu Lyu**, Jingwei Liu, Yuyu Guo, Lianli Gao
-- `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao
-- `ICME 2022` [Multi-Scale Graph Attention Network for Scene Graph Generation](https://ieeexplore.ieee.org/document/9859970), Min Chen, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao
-- `ACM MM 2022`  [Dynamic Scene Graph Generation via Temporal Prior Inference](https://dl.acm.org/doi/abs/10.1145/3503161.3548324), Shuang Wang, Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song
-- `ACM MM 2021`  (oral)[Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Shuaiqi Jing, Jingkuan Song
-- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **Xinyu Lyu**, Jingkuan Song, Lianli Gao
-- `ACM MM 2019`  (oral)[Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Lei Zhao, Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic
+- `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
+- `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
+- `ISAIR 2023` [Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274.pdf), **Xinyu Lyu**, Jingwei Liu, Yuyu Guo, Lianli Gao.
+- `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
+- `ICME 2022` [Multi-Scale Graph Attention Network for Scene Graph Generation](https://ieeexplore.ieee.org/document/9859970), Min Chen, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
+- `ACM MM 2022`  [Dynamic Scene Graph Generation via Temporal Prior Inference](https://dl.acm.org/doi/abs/10.1145/3503161.3548324), Shuang Wang, Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song.
+- `ACM MM 2021`  (**oral**)[Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Shuaiqi Jing, Jingkuan Song.
+- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **Xinyu Lyu**, Jingkuan Song, Lianli Gao.
+- `ACM MM 2019`  (**oral**)[Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Lei Zhao, Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic.
 <!-- under review -->
 
 <!--# 🎖 Honors and Awards
