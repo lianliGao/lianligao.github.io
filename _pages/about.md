@@ -104,7 +104,6 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 
 
-</div></div>
 
 - `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen
