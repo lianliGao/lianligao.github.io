@@ -135,8 +135,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 - *2022.05*, 2022 ChinaMM (Technical Forum: MM-CV High Impact Paper Appreciation Forum), Kunming, Yunan.
 
 
-# 💻 
--->
+
 # 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
