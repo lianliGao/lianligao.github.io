@@ -52,7 +52,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-**Ensuring balanced and efficient learning process for fine-grained scene graph generation.**
+**Ensuring balanced and efficient learning process for fine-grained SGG.**
 
 </div>
 </div>
