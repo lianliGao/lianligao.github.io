@@ -49,9 +49,8 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
-
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
-kVcO9R4AAAAJ:W7OEmFMy1HYC
+
 **Ensuring balanced and efficient learning process for fine-grained SGG.**
 
 </div>
