@@ -139,7 +139,7 @@ Lianli Gao(**Supervisor First Author**), **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yua
 # 💬 Invited Talks
 - *2023.05*, 2023 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. ([Video](https://wx.vzan.com/live/page/1981937113?v=638188997043420940)) 
 - *2022.05*, 2022 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. ([Video](https://live.bilibili.com/24970653))
-- *2022.05*, 2022 ChinaMM (Technical Forum: MM-CV High Impact Paper Appreciation Forum), Kunming, Yunan.
+- *2022.05*, 2022 ChinaMM (Technical Forum: MM-CV High Impact Paper Appreciation Forum), Guiyang, Guizhou.
 - *2019.10*, 2019 ACM MM (Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition), Nice, France.
 
 
