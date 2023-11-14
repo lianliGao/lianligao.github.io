@@ -79,7 +79,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
 
-<a href="[https://youtu.be/pMBYBYlmkNQ](https://youtu.be/VKm-w_1gdec)"><strong>Video</strong></a>
+<a href="https://youtu.be/VKm-w_1gdec"><strong>Video</strong></a>
 \|
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
  <!-- **Code**  -->
