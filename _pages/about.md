@@ -45,10 +45,11 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
-[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
+<a href="[https://youtu.be/pMBYBYlmkNQ](https://youtu.be/VKm-w_1gdec)"><strong>Video</strong></a>
+\|
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <!-- **Code**  -->
-
+[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
@@ -64,9 +65,9 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 **Chaofan Zheng**, **Xinyu Lyu(Equal Contribution)**, Lianli Gao, Bo Dai, Jingkuan Song
 <a href="https://youtu.be/pMBYBYlmkNQ"><strong>Video</strong></a>
 \|
-[![](https://img.shields.io/github/stars/VL-Group/PENET?style=social&label=Stars)](https://github.com/VL-Group/PENET)
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
 <!-- **Code**  -->
+[![](https://img.shields.io/github/stars/VL-Group/PENET?style=social&label=Stars)](https://github.com/VL-Group/PENET)
 
 **Acquiring robust features for reliable relation prediction in SGG.**
 
@@ -78,10 +79,9 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
-[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
-<!-- **Code**  -->
-
+ <!-- **Code**  -->
+[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Aims at differentiating hard-to-distinguish predicates for SGG.**
