@@ -50,8 +50,8 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
-
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
+kVcO9R4AAAAJ:W7OEmFMy1HYC
 **Ensuring balanced and efficient learning process for fine-grained SGG.**
 
 </div>
@@ -67,6 +67,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/VL-Group/PENET?style=social&label=Stars)](https://github.com/VL-Group/PENET)
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:W7OEmFMy1HYC'></span></strong>
 
 **Acquiring robust features for reliable relation prediction in SGG.**
 
@@ -103,7 +104,7 @@ Lianli Gao(**Supervisor First Author**), **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yua
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/ZhuGeKongKong/SGG-G2S?style=social&label=Stars)](https://github.com/ZhuGeKongKong/SGG-G2S)
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:9yKSN-GCB0IC'></span></strong>
+<strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
 **Making balanced and informative predicate prediction for SGG.**
 
