@@ -45,7 +45,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
-
+[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <!-- **Code**  -->
 
@@ -62,7 +62,9 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
 **Chaofan Zheng**, **Xinyu Lyu(Equal Contribution)**, Lianli Gao, Bo Dai, Jingkuan Song
-
+<a href="https://youtu.be/pMBYBYlmkNQ"><strong>Video</strong></a>
+\|
+[![](https://img.shields.io/github/stars/VL-Group/PENET?style=social&label=Stars)](https://github.com/VL-Group/PENET)
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
 <!-- **Code**  -->
 
@@ -76,7 +78,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 
 [Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
  **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
-
+[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 <!-- **Code**  -->
 
