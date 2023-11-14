@@ -84,7 +84,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
  <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:2osOgNQ5qMEC'></span></strong>
 
 **Aims at differentiating hard-to-distinguish predicates for SGG.**
 
