@@ -62,7 +62,7 @@ My research interests mainly focus are Machine Learning, Deep Learning, and Comp
 <div class='paper-box-text' markdown="1">
 
 [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
-**Chaofan Zheng**, **Xinyu Lyu(Equal Contribution)**, Lianli Gao, Bo Dai, Jingkuan Song
+Chaofan Zheng*, **Xinyu Lyu***(Equal Contribution), Lianli Gao, Bo Dai, Jingkuan Song
 <a href="https://youtu.be/pMBYBYlmkNQ"><strong>Video</strong></a>
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
