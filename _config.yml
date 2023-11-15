@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyu Lyu"
   avatar           : "images/me.jpg"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "University of Electronic Science and Technology of China (UESTC)"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  wechat           : "lxy____96"
   xing             :
   youtube          :
   wikipedia        :
