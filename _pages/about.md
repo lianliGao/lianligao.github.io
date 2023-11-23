@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, My name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.  
 
-My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual-Text Matching, Visual Dialog and Image Captioning. I'm now especially interested in dealing with Hallucination and Catastrophic Forgetting problems in LLM and MLLM via External Structured Knowledge. If you are also interested in related topics, please do not hesitate to reach out.
+My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in dealing with Hallucination and Catastrophic Forgetting problems in LLM and MLLM via External Structured Knowledge. If you are also interested in related topics, please do not hesitate to reach out.
 
 
 # 🔥 News
@@ -99,7 +99,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
-Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
+Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished the First Version**), Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <!-- **Code**  -->
