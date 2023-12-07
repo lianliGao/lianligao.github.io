@@ -25,7 +25,7 @@ My research interests mainly focus are Multimedia Learning, including Scene Grap
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
-- *2023.08*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2023).
+<!-- - *2023.08*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2023).-->
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
 - *2023.03*: &nbsp; One paper was accepted by International Symposium on Artificial Intelligence and Robotics (ISAIR 2023).
@@ -98,7 +98,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Informative Scene Graph Generation via Debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
+[Informative Scene Graph Generation via Debiasing (Minor Revision)](https://arxiv.org/pdf/2308.05286.pdf) \\
 Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished the First Version**), Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
