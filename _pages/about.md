@@ -25,7 +25,6 @@ My research interests mainly focus are Multimedia Learning, including Scene Grap
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
-<!-- - *2023.08*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV 2023).-->
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
 - *2023.03*: &nbsp; One paper was accepted by International Symposium on Artificial Intelligence and Robotics (ISAIR 2023).
@@ -150,7 +149,7 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
 - **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT, IEEE TMM, IEEE TGRS, etc.
-- **Conference Reviewer**: CVPR, NeurIPS, ACM MM, AAAI, EMNLP, ICPR, etc.
+- **Conference Reviewer**: CVPR, NeurIPS, ACM MM, AAAI, EMNLP, ICPR, ICME, etc.
 <!-- - Conference Reviewer: of CVPR 2023/2024, NeurIPS 2022/2023, ACM MM 2021/2023, ICCV 2023, AAAI 2020/2024, EMNLP 2024, ICPR2020. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 - **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022 ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .
