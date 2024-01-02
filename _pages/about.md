@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.  
 
-My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in dealing with Hallucination and Catastrophic Forgetting problems in MLLM.
+My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in Hallucination and Safety in MLLM.
 
 
 # 🔥 News
@@ -112,7 +112,7 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 
 
 
-- `Arxiv 2024` [Context-based Transfer and Efficient Iterative Learning for Unbiased Scene Graph Generation](https://arxiv.org/pdf/2401.03274.pdf), Qisheng Chen, **Xinyu Lyu**, Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song.
+- `Arxiv 2024` [Context-based Transfer and Efficient Iterative Learning for Unbiased Scene Graph Generation](https://arxiv.org/pdf/2312.17425.pdf), Qisheng Chen, **Xinyu Lyu**, Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song.
 - `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
 - `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
