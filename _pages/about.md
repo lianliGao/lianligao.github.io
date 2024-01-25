@@ -126,7 +126,7 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- 2024.1 SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
+- 2024.01 SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 
 
