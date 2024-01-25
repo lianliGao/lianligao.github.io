@@ -125,9 +125,9 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 - `ACM MM 2019`  (**oral**) [Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic.
 <!-- under review -->
 
-<!--# 🎖 Honors and Awards
-- *2022.10* National Scholarship
-- *2021.10* National Scholarship-->
+# 🎖 Honors and Awards
+- 2024.1 SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
+
 
 
 # 📖 Educations
