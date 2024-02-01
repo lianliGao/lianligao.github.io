@@ -125,7 +125,7 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2024.11* Outstanding graduates of University of Electronic Science and Technology of China.
+- *2024.11* Outstanding Graduates of University of Electronic Science and Technology of China.
 - *2024.01* SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 
