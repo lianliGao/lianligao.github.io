@@ -156,8 +156,8 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 
 # 💻 Main Projects
 - *2023.02 - 2024.06*, 2030 Science and Technology Innovation Major Project for Next-Generation Artificial Intelligence by the Ministry of Science and Technology, National Key Research and Development Program of China (No. 2018AAA0102200), **Main Researcher**.
-- *2021.01 - 2025.12*, Research on Key Technologies for Visual Natural Cognition through Collaborative Vision and Language Processing, National Natural Science Foundation of China under Grant (No. 62020106008), **Main Researcher**.
+- *2021.01 - 2025.12*, Research on Key Technologies for Visual Natural Cognition through Collaborative Vision and Language Processing, National Natural Science Foundation of China under Grant (No. 62020106008), **Participant**.
 - *2020.01 - 2022.07*, Research on Scene Graph Generation for E-commerce Live Streaming/Video, Kuaishou (No. 202109FKY00302), **Main Researcher**.
-- *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Main Researcher**.
-- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Main Researcher**.
+- *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Participant**.
+- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**.
 
