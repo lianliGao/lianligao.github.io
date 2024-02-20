@@ -22,7 +22,7 @@ Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Comp
 My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in Hallucination and Safety in MLLM.
 
 
-<!--# 🔥 News
+# 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
@@ -159,5 +159,5 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 - *2021.01 - 2025.12*, Research on Key Technologies for Visual Natural Cognition through Collaborative Vision and Language Processing, National Natural Science Foundation of China under Grant (No. 62020106008), **Participant**.
 - *2020.01 - 2022.07*, Research on Scene Graph Generation for E-commerce Live Streaming/Video, Kuaishou (No. 202109FKY00302), **Main Researcher**.
 - *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Participant**.
-- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**.-->
+- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**.
 
