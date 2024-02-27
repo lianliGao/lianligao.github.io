@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.  
 
-My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in Hallucination and Safety in MLLM.
+My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in Hallucination in MLLM.
 
 
 # 🔥 News
