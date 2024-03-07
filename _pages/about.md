@@ -139,12 +139,14 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/2311.01755.pdf)  \\
+[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pdf/2311.01755.pdf)  \\
 T. He, **Lianli Gao**, J. Song, and Y. Li. 
  
 <a href="https://arxiv.org/pdf/2311.01755.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://lianligao,github.io/"><strong>Code</strong></a>
+
+**Build a Unified Transformer-based Framework for SGG and HOI.**
 
 </div>
 </div>
@@ -161,6 +163,7 @@ Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song.
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
 
+**Acquiring robust features for reliable relation prediction in SGG.**
 
 </div>
 </div>
@@ -169,13 +172,14 @@ Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/7.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Part-aware transformer for generalizable person re-identification](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
+[Part-aware transformer for generalizable person re-identification](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf) \\
 H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/liyuke65535/Part-Aware-Transformer"><strong>Code</strong></a>
 
+**Mitagating domain-specific biases in Domain generalization person re-identification.**
 
 </div>
 </div>
@@ -189,6 +193,8 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 <a href="https://arxiv.org/pdf/2306.07257.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://www.youtube.com/watch?v=tvDknhMFhzk"><strong>Demo</strong></a>
+
+**Empowering users to create captivating movies with smooth transitions using simple text inputs.**
 
 </div>
 </div>
