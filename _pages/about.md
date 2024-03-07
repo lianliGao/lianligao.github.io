@@ -30,15 +30,15 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.02*: &nbsp; Two paper were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024).
-- *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
-- *2023.09*: &nbsp; One paper was accepted by Annual Conference on Neural Information Processing Systems (NeurIPS 2023).
-- *2023.07*: &nbsp; Four papers were accepted by ACM Multimedia (MM 2023).
-- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
-- *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023).
-- *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
-- *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
-- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
+- *2024.02*: &nbsp; Two paper were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)!
+- *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023)!
+- *2023.09*: &nbsp; One paper was accepted by Annual Conference on Neural Information Processing Systems (NeurIPS 2023)!
+- *2023.07*: &nbsp; Four papers were accepted by ACM Multimedia (MM 2023)!
+- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023)!
+- *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023)!
+- *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023)!
+- *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023)!
+- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021)!
 
 
 # 📝 Selective Publications 
@@ -46,7 +46,7 @@ Full Publications visit Her [Google Scholar](https://scholar.google.com/citation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dept: Decoupled prompt tuning.](https://arxiv.org/pdf/2309.07439.pdf) \\
+<font color="#dd0000">New!![Dept: Decoupled prompt tuning.](https://arxiv.org/pdf/2309.07439.pdf) \\
 J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
  
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
@@ -61,7 +61,7 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.](https://arxiv.org/pdf/2312.12478.pdf) \\
+<font color="#dd0000">New!![Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.](https://arxiv.org/pdf/2312.12478.pdf) \\
 K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen. 
  
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
