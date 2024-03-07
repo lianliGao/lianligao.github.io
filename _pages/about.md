@@ -114,18 +114,21 @@ Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished t
 </div>
 </div>
 
-- `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
-- `Arxiv 2024` [Context-based Transfer and Efficient Iterative Learning for Unbiased Scene Graph Generation](https://arxiv.org/pdf/2312.17425.pdf), Qisheng Chen, **Xinyu Lyu**, Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song.
-- `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
-- `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
-- `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
-- `ISAIR 2023` [Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274.pdf), **Xinyu Lyu**, Jingwei Liu, Yuyu Guo, Lianli Gao.
-- `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
-- `ICME 2022` [Multi-Scale Graph Attention Network for Scene Graph Generation](https://ieeexplore.ieee.org/document/9859970), Min Chen, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
-- `ACM MM 2022`  [Dynamic Scene Graph Generation via Temporal Prior Inference](https://dl.acm.org/doi/abs/10.1145/3503161.3548324), Shuang Wang, Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song.
-- `ACM MM 2021`  (**oral**) [Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Shuaiqi Jing, Jingkuan Song.
-- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **Xinyu Lyu**, Jingkuan Song, Lianli Gao.
-- `ACM MM 2019`  (**oral**) [Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic.
+- `ECCV 2022` [State-aware compositional learning toward unbiased training for scene graph generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654), T. He, **Lianli Gao**, J. Song, and Y. Li. 
+- `TIP 2023` [From global to local: Multi-scale out-of-distribution detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654), J. Zhang, **Lianli Gao**, B. Hao, H. Huang, J. Song, and H. Shen.
+- `ICCV 2023` [DETA: denoised task adaptation for few-shot learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_DETA_Denoised_Task_Adaptation_for_Few-Shot_Learning_ICCV_2023_paper.pdf), J. Zhang, **Lianli Gao**, X. Luo, H. Shen, and J. Song. 
+- `TIP 2022` [Hierarchical representation network with auxiliary tasks for video captioning and video question answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9592722), **Lianli Gao**, Y. Lei, P. Zeng, J. Song, M. Wang, and H. T. Shen.
+- `TIP 2022` [Video question answering with prior knowledge and object-sensitive learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9882977), P. Zeng, H. Zhang, **Lianli Gao**, J. Song, and H. T. Shen. 
+- `CVPR 2022` [Practical evaluation of adversarial robustness via adaptive auto attack](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Practical_Evaluation_of_Adversarial_Robustness_via_Adaptive_Auto_Attack_CVPR_2022_paper.pdf), Y. Liu, Y. Cheng, **Lianli Gao**, X. Liu, Q. Zhang, and J. Song.
+- `CVPR 2022` [Unified multivariate gaussian mixture for efficient neural image compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Unified_Multivariate_Gaussian_Mixture_for_Efficient_Neural_Image_Compression_CVPR_2022_paper.pdf), X. Zhu, J. Song, **Lianli Gao**, F. Zheng, and H. T. Shen.
+- `CVPR 2022` [Fine-grained predicates learning for scene graph generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf), X. Lyu, **Lianli Gao**, Y. Guo, Z. Zhao, H. Huang, H. T. Shen, and J. Song.
+- `ECCV 2022` [Towards open-vocabulary scene graph generation with prompt-based finetuning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880055.pdf), T. He, Lianli Gao, J. Song, and Y. Li. 
+- `ECCV 2022` [Frequency domain model augmentation for adversarial attack](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640543.pdf), Long, Q. Zhang, B. Zeng, **Lianli Gao**, X. Liu, J. Zhang, and J. Song.
+- `ICLR 2022` [Beyond imagenet attack: Towards crafting adversarial examples for black-box domains](https://arxiv.org/pdf/2201.11528.pdf), Q. Zhang, X. Li, Y. Chen, J. Song, **Lianli Gao**, Y. He, and H. Xue. 
+- `NeurIPS 2022` [A differentiable semantic metric approximation in probabilistic embedding for cross-modal retrieval](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf), H. Li, J. Song, **Lianli Gao**, P. Zeng, H. Zhang, and G. Li. 
+- `NeurIPS 2022` [Natural color fool: Towards boosting black-box unrestricted attacks](https://arxiv.org/pdf/2210.02041.pdf), S. Yuan, Q. Zhang, **Lianli Gao**, Y. Cheng, and J. Song.
+- `NeurIPS 2022` [A lower bound of hash codes’ performance](https://arxiv.org/pdf/2210.05899.pdf), X. Zhu, J. Song, Y. Lei, **Lianli Gao**, and H. Shen.
+- `TPAMI 2020` [Hierarchical lstms with adaptive attention for visual captioning](https://arxiv.org/pdf/1812.11004.pdf), **Lianli Gao**, X. Li, J. Song, and H. T. Shen.
 <!-- under review -->
 
 # 🎖 Honors and Awards
