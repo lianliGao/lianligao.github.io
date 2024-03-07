@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "xinyulyu"
-description              : ""
-repository               : "xinyulyu/xinyulyu.github.io/"
+title                    : "lianligao"
+description              : "Dr. Lianli Gao (高联丽) from UESTC!"
+repository               : "lianligao/lianligao.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyu Lyu"
-  avatar           : "images/me.jpg"
-  bio              : "University of Electronic Science and Technology of China (UESTC)"
-  location         : "Chengdu, China"
+  name             : "Lianli Gao"
+  avatar           : "images/profile.png"
+  bio              : "Prof. from School of Computer Science and Engineering in University of Electronic Science and Technology of China (UESTC)"
+  location         : "No.A307 Innovation center, Qingshuihe Campus, Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=kVcO9R4AAAAJ"
-  email            : "xinyulyu68@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=zsm2dpYAAAAJ"
+  email            : "juana.alian@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinyuLyu" # e.g., "github username"
+  github           : "lianliGao" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  wechat           : "lxy____96"
+  wechat           : #
   xing             :
   youtube          :
   wikipedia        :
