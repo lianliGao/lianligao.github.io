@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selective Publications"
-    url: "/#-selective-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Honors and Services"
     url: "/#-honors-and-services"
