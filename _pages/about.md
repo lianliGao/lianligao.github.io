@@ -17,24 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Xinyu Lyu (吕新昱). I’m a Ph.D. student from College of Computer Science, University of Electronic Science and Technology of China, advised by Prof.[Lianli Gao](https://lianligao.github.io/) and Prof.[Jie Shao](https://cfm.uestc.edu.cn/~shaojie/). Before that, I obtained my MS and BS degrees in Rutgers University under the supervision of Prof.[Ivan Marsic](https://www.ece.rutgers.edu/~marsic/) in 2019, and UESTC in 2018, respectively.  
+Dr. Lianli Gao(高联丽) is a Professor in School of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC). Dr. Gao received her Ph.D in School of Electronic Engineering and Computer Science (ITEE) at University of Queensland in 2014 (under the supervision of [Prof. Jane Hunter](https://staff.itee.uq.edu.au/jane/), [Prof. Michael Bruenig](https://researchers.uq.edu.au/researcher/5052) and [A/Prof. Yuan-Fang Li](https://users.monash.edu.au/~yli/) and her B.CS. in School of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC) in 2009, respectively.
 
-My research interests mainly focus are Multimedia Learning, including Scene Graph Generation, Visual Dialog and Image Captioning. I'm now especially interested in Hallucination in MLLM.
+Dr. Gao is leader of the Multimedia Analysis and Visual Cognition research group with four Prof. or A/Prof. and three Postdocs. She has a strong ability to develop and author successful grant funding proposals in close collaboration with industry, government partners, and colleagues within and across universities. Her research has been supported by 12 nationally competitive research grants, including one Major Project from the Ministry of Science and Technology of China, two key projects from the National Natural Science Foundation of China, four projects from the industry, etc. In addition, she has served or will serve as ECCV Area Chair 2024, WACV Area Chair 2022-2024, program committee of the IJCAI 24 track on AI and Social Good, AAAI SPC 2022, ACM MM 2021 Session Chair, ACM MM 2021 Workshop Co-chair, IJCAI Session Chair 2019, Guest Editor of 2019 Journal of Visual Communication and Image Representation, etc.
+
+Her research interests include multimedia content understanding, image and video retrieval, vision language, computer vision, and machine learning, and published over 160 publications at prestigious journals and proceedings in prominent conferences (including 70+ IEEE/ACM Transactions and 70+ CCF-A papers (Chinese Computing Federation A ranked (e.g., CVPR, ICCV, NeurIPS, ICML and ICLR)). Her publications have been cited in Google Scholar more than 7,400 times, and her H-Index in Google Scholar is 44.
+
+She has received Best Student Paper Award from Australasian Database Conference 2017, Rising Star Award from IEEE Technical Community on Multimedia Computing 2020, Sichuan Provincial Academic/Technical Leader (Reserve Candidate) 2021, UESTC Research Excellence Award (2018, 2020,2023), Alibaba DAMO Academy Young Fellow Award 2019, and also has been selected as one of the 2023 Chinese Young Female Scholars in Artificial Intelligence for her outstanding academic performance in AI. In addition, in terms of international challenges she received ICCV Deeper Action 3rd Place Award in Kinetics-TPS Challenge on Part-level Action Parsing 2021, CVPR Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models 2021, ICCV COCO DensePose Challenge 2nd place award 2019, OPPO Security Challenge 2nd Place 2021, and ECCV DeeperAction Track4 3nd Place 2022, etc.
+
+Her Teaching covers a wide range of courses at different levels for both international and national students, including "Introduction to Big Data", "Data Structure and Algorithm", "Introduction to Computer Vision", "Semantic Web", "Experiments of Artificial Intelligence", "Welcome to Academic World" etc. She received very positive feedback (e.g., "nice teacher", "well-organized", "good experience" and "dedicated to providing us with knowledge“) from her students with a well-deserved 5-star rating. In addition, she has been mentoring junior staff by assessing peer-to-peer teaching performance via attending their classes. Her dedication earned her Excellent Faculty Award for Outstanding Teaching in 2018 and 2023.
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
+- *2024.02*: &nbsp; Two paper were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024).
+- *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
+- *2023.09*: &nbsp; One paper was accepted by Annual Conference on Neural Information Processing Systems (NeurIPS 2023).
+- *2023.07*: &nbsp; Four papers were accepted by ACM Multimedia (MM 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
-- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
-- *2023.03*: &nbsp; One paper was accepted by International Symposium on Artificial Intelligence and Robotics (ISAIR 2023).
-- *2023.02*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).
-- *2022.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2022).
-- *2022.07*: &nbsp; Two papers were accepted by IEEE International Conference on Multimedia and Expo (ICME 2022).
-- *2022.06*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognitionn (CVPR 2022).
-- *2021.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2021).
-- *2021.06*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
-- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019).
+- *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023).
+- *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
+- *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
+- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
 
 
 # 📝 Publications 
