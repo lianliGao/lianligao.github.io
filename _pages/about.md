@@ -188,7 +188,7 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 </div>
 </div>
 
-- `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
+
 
 
 
