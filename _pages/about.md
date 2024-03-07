@@ -121,7 +121,7 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/papers/5.jpeg' alt="sym" height="600" width="800"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/papers/5.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A closer look at few-shot classification again.](https://arxiv.org/pdf/2301.12246.pdf) \\
