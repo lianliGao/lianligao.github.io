@@ -64,7 +64,7 @@ Full Publications visit Her [Google Scholar](https://scholar.google.com/citation
 <div class='paper-box-text' markdown="1">
 
 [Dept: Decoupled prompt tuning](https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654) \\
-J. Zhang, S. Wu, Lianli Gao, H. T. Shen, and J. Song.
+J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
  
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
@@ -76,8 +76,8 @@ J. Zhang, S. Wu, Lianli Gao, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detectioni](https://ariv org/pf/2311 01755.pdf) ) \\
-T.He,**Lianli Gaot*,3.Song, and Y, Li.
+[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://ariv org/pf/2311 01755.pdf) ) \\
+T. He, **Lianli Gao**, J. Song, and Y. Li. 
  
  <a href="https://arxiv.org/pdf/2311.01755.pdf""><strong>Paper</strong></a>
 \|
