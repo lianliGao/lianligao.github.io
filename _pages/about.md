@@ -138,11 +138,6 @@ T. He, **Lianli Gao**, J. Song, and Y. Li.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
