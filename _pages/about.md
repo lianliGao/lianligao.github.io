@@ -77,12 +77,40 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval](https://arxiv.org/pdf/2309.07439.pdf) \\
-J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
+[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval](https://arxiv.org/pdf/2312.12478.pdf) \\
+K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen. 
  
- <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
+ <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
+<a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Label-guided generative adversarial network for realistic image synthesis](https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf) \\
+J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.
+ 
+ <a href="https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/RoseRollZhu/Lab2Pix-V2"><strong>Code</strong></a>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive fine-grained predicates learning for scene graph generation](https://arxiv.org/pdf/2207.04602.pdf) \\
+X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
+ 
+ <a href="https://arxiv.org/pdf/2207.04602.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 
 </div>
 </div>
@@ -91,7 +119,7 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://ariv org/pf/2311 01755.pdf) ) \\
+[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/2311 01755.pdf) ) \\
 T. He, **Lianli Gao**, J. Song, and Y. Li. 
  
  <a href="https://arxiv.org/pdf/2311.01755.pdf""><strong>Paper</strong></a>
@@ -101,6 +129,32 @@ T. He, **Lianli Gao**, J. Song, and Y. Li.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[State-aware compositional learning toward unbiased training for scene graph generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654) ) \\
+T. He, **Lianli Gao**, J. Song, and Y. Li. 
+ 
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654""><strong>Paper</strong></a>
+\|
+<a href="https://lianligao,github.io/"><strong>Code</strong></a>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From global to local: Multi-scale out-of-distribution detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654) ) \\
+J. Zhang, **Lianli Gao**, B. Hao, H. Huang, J. Song, and H. Shen. 
+ 
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654""><strong>Paper</strong></a>
+\|
+<a href="https://github.com/JimZAI/MODE-OOD"><strong>Code</strong></a>
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
