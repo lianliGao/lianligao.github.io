@@ -41,7 +41,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 - *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
 
 
-# 📝 Publications 
+# 📝 Selective Publications 
 Full Publications visit Her [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="50%"></div></div>
