@@ -83,6 +83,8 @@ K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen.
 \|
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 
+**Making balanced and informative predicate prediction for SGG.**
+
 </div>
 </div>
 
@@ -97,6 +99,8 @@ J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.
  <a href="https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/RoseRollZhu/Lab2Pix-V2"><strong>Code</strong></a>
+ 
+**Bridging semantic gap between labels and images for Label-Image Generation.**
 
 </div>
 </div>
@@ -112,6 +116,7 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 \|
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
 
+**Ensuring balanced and efficient learning process for fine-grained SGG.**
 </div>
 </div>
 
@@ -124,6 +129,8 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 <a href="https://arxiv.org/pdf/2301.12246.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Frankluox/CloserLookAgainFewShot"><strong>Code</strong></a>
+
+**Empirically proving the disentanglement of training and test-time adaptation algorithms in few-shot classification.**
 
 </div>
 </div>
