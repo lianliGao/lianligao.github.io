@@ -43,73 +43,15 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 # 📝 Publications 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://arxiv.org/pdf/2207.04602.pdf) \\
- **Xinyu Lyu**, Lianli Gao, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song
+[Dept: Decoupled prompt tuning](https://arxiv.org/pdf/2309.07439.pdf) \\
+J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
  
-<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
-<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
-
-**Ensuring balanced and efficient learning process for fine-grained SGG.**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
-Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkuan Song
-<a href="https://youtu.be/pMBYBYlmkNQ"><strong>Video</strong></a>
+ <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/VL-Group/PENET?style=social&label=Stars)](https://github.com/VL-Group/PENET)
-<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:W7OEmFMy1HYC'></span></strong>
-
-**Acquiring robust features for reliable relation prediction in SGG.**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Fine-Grained Predicates Learning for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) \\
- **Xinyu Lyu**, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song
-
-<a href="https://youtu.be/VKm-w_1gdec"><strong>Video</strong></a>
-\|
-<a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
- <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XinyuLyu/FGPL?style=social&label=Stars)](https://github.com/XinyuLyu/FGPL)
-<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:2osOgNQ5qMEC'></span></strong>
-
-**Aims at differentiating hard-to-distinguish predicates for SGG.**
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Informative Scene Graph Generation via Debiasing (Minor Revision)](https://arxiv.org/pdf/2308.05286.pdf) \\
-Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished the First Version**), Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
-
-<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/ZhuGeKongKong/SGG-G2S?style=social&label=Stars)](https://github.com/ZhuGeKongKong/SGG-G2S)
-<strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
-
-**Making balanced and informative predicate prediction for SGG.**
+<a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
 </div>
 </div>
