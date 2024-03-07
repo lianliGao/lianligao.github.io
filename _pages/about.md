@@ -30,17 +30,15 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
+- *2024.02*: &nbsp; Two paper were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024).
+- *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
+- *2023.09*: &nbsp; One paper was accepted by Annual Conference on Neural Information Processing Systems (NeurIPS 2023).
+- *2023.07*: &nbsp; Four papers were accepted by ACM Multimedia (MM 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
-- *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
-- *2023.03*: &nbsp; One paper was accepted by International Symposium on Artificial Intelligence and Robotics (ISAIR 2023).
-- *2023.02*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).
-- *2022.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2022).
-- *2022.07*: &nbsp; Two papers were accepted by IEEE International Conference on Multimedia and Expo (ICME 2022).
-- *2022.06*: &nbsp; One paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognitionn (CVPR 2022).
-- *2021.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2021).
-- *2021.06*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
-- *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019).
+- *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023).
+- *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
+- *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023).
+- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
 
 
 # 📝 Publications 
