@@ -54,7 +54,7 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
-**Overcoming the base-new tradeofff (BNT) problem for existing prompt tuning methods.**
+**Overcoming the base-new trade-off (BNT) problem for existing prompt tuning methods.**
 
 </div>
 </div>
@@ -111,7 +111,7 @@ J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.
 <div class='paper-box-text' markdown="1">
 
 [Adaptive fine-grained predicates learning for scene graph generation.](https://arxiv.org/pdf/2207.04602.pdf) \\
-X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
+X. Lyu, **Lianli Gao**, P. Zeng, H. T. Shen, and J. Song.
  
  <a href="https://arxiv.org/pdf/2207.04602.pdf"><strong>Paper</strong></a>
 \|
@@ -210,7 +210,7 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 - `CVPR 2022` [Practical evaluation of adversarial robustness via adaptive auto attack](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Practical_Evaluation_of_Adversarial_Robustness_via_Adaptive_Auto_Attack_CVPR_2022_paper.pdf), Y. Liu, Y. Cheng, **Lianli Gao**, X. Liu, Q. Zhang, and J. Song.
 - `CVPR 2022` [Unified multivariate gaussian mixture for efficient neural image compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Unified_Multivariate_Gaussian_Mixture_for_Efficient_Neural_Image_Compression_CVPR_2022_paper.pdf), X. Zhu, J. Song, **Lianli Gao**, F. Zheng, and H. T. Shen.
 - `CVPR 2022` [Fine-grained predicates learning for scene graph generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf), X. Lyu, **Lianli Gao**, Y. Guo, Z. Zhao, H. Huang, H. T. Shen, and J. Song.
-- `ECCV 2022` [Towards open-vocabulary scene graph generation with prompt-based finetuning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880055.pdf), T. He, Lianli Gao, J. Song, and Y. Li. 
+- `ECCV 2022` [Towards open-vocabulary scene graph generation with prompt-based finetuning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880055.pdf), T. He, **Lianli Gao**, J. Song, and Y. Li. 
 - `ECCV 2022` [Frequency domain model augmentation for adversarial attack](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640543.pdf), Long, Q. Zhang, B. Zeng, **Lianli Gao**, X. Liu, J. Zhang, and J. Song.
 - `ICLR 2022` [Beyond imagenet attack: Towards crafting adversarial examples for black-box domains](https://arxiv.org/pdf/2201.11528.pdf), Q. Zhang, X. Li, Y. Chen, J. Song, **Lianli Gao**, Y. He, and H. Xue. 
 - `NeurIPS 2022` [A differentiable semantic metric approximation in probabilistic embedding for cross-modal retrieval](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf), H. Li, J. Song, **Lianli Gao**, P. Zeng, H. Zhang, and G. Li. 
@@ -221,26 +221,26 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 
 # 🎖 Honors and Services
 - **Research Honors:**
-  - 2023, 2020, 2018 UESTC Research Excellence Award.
-  - 2023, 2018 UESTC Excellent Faculty Award for Teaching Excellence.
-  - 2023 Chinese Young Female Scholars in Artificial Intelligence.
-  - 2021 Sichuan Provincial Academic/Technical Leader (Reserve Candidate).
-  - 2020 IEEE Transactions on Multimedia Best Paper Award.
-  - 2020 IEEE Technical Community on Multimedia Computing Rising Star Award.
-  - 2019 Alibaba DAMO Academy Young Fellow Award.
-  - 2017 Australasian Database Conference Best Student Paper Award.
+  - *2023*, *2020*, *2018* UESTC Research Excellence Award.
+  - *2023*, *2018* UESTC Excellent Faculty Award for Teaching Excellence.
+  - *2023* Chinese Young Female Scholars in Artificial Intelligence.
+  - *2021* Sichuan Provincial Academic/Technical Leader (Reserve Candidate).
+  - *2020* IEEE Transactions on Multimedia Best Paper Award.
+  - *2020* IEEE Technical Community on Multimedia Computing Rising Star Award.
+  - *2019* Alibaba DAMO Academy Young Fellow Award.
+  - *2017* Australasian Database Conference Best Student Paper Award.
 - **Grand Challnges:**
-  - ECCV2022: DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
-  - CVPR2021: Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
-  - ICCV2021: DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
-  - OPPO2021: Security Challenge 2nd Place award.
-  - ICCV2019: COCO DensePose Task Challenge 2nd place award.
+  - *ECCV2022:* DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - *CVPR2021:* Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
+  - *ICCV2021:* DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - *OPPO2021:* Security Challenge 2nd Place award.
+  - *ICCV2019:* COCO DensePose Task Challenge 2nd place award.
 - **Adademic Services:**
-  - 2024: ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
-  - 2023: WACV Area Chair
-  - 2022: AAAI SPC, WACV Area Chair
-  - 2021: ACM MM Session Chair, ACM MM Workshop Co-chair
-  - 2019: IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image Representation, etc.
+  - *2024:* ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
+  - *2023:* WACV Area Chair
+  - *2022:* AAAI SPC, WACV Area Chair
+  - *2021:* ACM MM Session Chair, ACM MM Workshop Co-chair
+  - *2019:* IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image Representation, etc.
 
 
 # 🙋 Supervision
