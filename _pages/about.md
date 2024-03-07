@@ -60,18 +60,33 @@ Full Publications visit Her [Google Scholar](https://scholar.google.com/citation
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dept: Decoupled prompt tuning](https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654) \\
+[Dept: Decoupled prompt tuning](https://arxiv.org/pdf/2309.07439.pdf) \\
 J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
  
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/JimZAI/M0DE-00D"><strong>Code</strong></a>
+<a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval](https://arxiv.org/pdf/2309.07439.pdf) \\
+J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
+ 
+ <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
