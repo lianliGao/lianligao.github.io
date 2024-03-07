@@ -200,40 +200,75 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 - `TPAMI 2020` [Hierarchical lstms with adaptive attention for visual captioning](https://arxiv.org/pdf/1812.11004.pdf), **Lianli Gao**, X. Li, J. Song, and H. T. Shen.
 <!-- under review -->
 
-# 🎖 Honors and Awards
-- *2024.11* Outstanding Graduates of University of Electronic Science and Technology of China.
-- *2024.01* SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
+# 🎖 Honors and Services
+- 2023, 2020, 2018 UESTC Research Excellence Award.
+- 2023, 2018 UESTC Excellent Faculty Award for Teaching Excellence.
+- 2023 Chinese Young Female Scholars in Artificial Intelligence.
+- 2021 Sichuan Provincial Academic/Technical Leader (Reserve Candidate).
+- 2020 IEEE Transactions on Multimedia Best Paper Award.
+- 2020 IEEE Technical Community on Multimedia Computing Rising Star Award.
+- 2019 Alibaba DAMO Academy Young Fellow Award.
+- 2017 Australasian Database Conference Best Student Paper Award.
+- Grand Challnges:
+-   ECCV2022 DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
+-   CVPR2021 Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
+-   ICCV2021 DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
+-   OPPO2021 Security Challenge 2nd Place award.
+-   ICCV 2019 COCO DensePose Task Challenge 2nd place award.
+- Adademic Services:
+-   2024: ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
+-   2023: WACV Area Chair
+-   2022: AAAI SPC, WACV Area Chair
+-   2021: ACM MM Session Chair, ACM MM Workshop Co-chair
+-   2019: IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image
+Representation, etc.
 
 
-
-# 📖 Educations
-- *2020.09* - now, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
-- *2017.09* - 2019.06, Master student, Rutgers University, New Jersey. 
-- *2014.09* - 2018.06, Undergraduate, University of Electronic Science and Technology of China, Chengdu.
-
-
-
-# 💬 Invited Talks
-- *2023.05*, 2023 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. ([Video](https://wx.vzan.com/live/page/1981937113?v=638188997043420940)) 
-- *2022.05*, 2022 CVPR Southwest Region Pre-Sharing Session, Chengdu, Sichuan. ([Video](https://live.bilibili.com/24970653))
-- *2022.05*, 2022 ChinaMM (Technical Forum: MM-CV High Impact Paper Appreciation Forum), Guiyang, Guizhou.
-- *2019.10*, 2019 ACM MM (Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition), Nice, France.
-
-
-# 🙋 Service
+# 🙋 Supervision
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
+- **Current Ph.D students:**
+  - Kaipeng Fang, Xiao Cai (Enrolled in Jun. 2023)
+  - Xu Luo, Haonan Zhang (Enrolled in Jun. 2022)
+  - Hao Ni, Sitong su (Enrolled in Jun. 2021)
+  - Ji Zhang, Xinyu Lyu and Juncheng Zhu (Enrolled in Jun. 2020)
+  
+- **Former Ph.D students:**
+  - Tao He (Co-supervisor Monash University Jun.2018 - Nov. 2022)
+    
+    _Thesis: Towards Unbiased Scene Graph Generation: Techniques and Applications._
+  - Xuanhang Wang (Jun. 2019 - Jul. 2023)
+  
+    _Thesis: Visual semantic understanding based visual dialogue._	
+  - Pengpeng Zeng (Jun. 2019 - Jul. 2023)
+  
+    _Thesis: Research on Synergizing Vision and Text for Semantic Consistency Method._
+  - Xiangpeng Li (Jun.2018 - Jul. 2022)
+  
+    _Thesis: Research on Visual Reasoning algorithm that integrates natural language analysis._
+  - Yuyu Guo (Jun. 2018 - Jul. 2022)
+	
+	_Thesis: Visual Relationship Generation Based on Scene Understanding._
 
-<!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-- **Journal Reviewer**: IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT, IEEE TMM, IEEE TGRS, etc.
-- **Conference Reviewer**: CVPR, NeurIPS, ACM MM, AAAI, EMNLP, ICPR, ICME, etc.
-<!-- - Conference Reviewer: of CVPR 2023/2024, NeurIPS 2022/2023, ACM MM 2021/2023, ICCV 2023, AAAI 2020/2024, EMNLP 2024, ICPR2020. -->
-<!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
-- **Competition Reviewer**: Guangdong-Hong Kong-Macao Greater Bay Area (Whampoa) International Algorithm Calculation Competition 2022 ([Track: Panoptic Scene Graph Genetation](https://www.cvmart.net/race/10349/base?organic_url=https%3A%2F%2Fwww.google.com%2F))/ 2023([Track: FunQA](http://112.74.40.78:9092/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000)) .
+- **Current and former M.Sc. students:**
+  - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (Enrolled in Sep. 2022)
+  - Jiaqi Guo, Qishen Chen, Youhen Sun, Yixin Qin, and Han Wang (Enrolled in Sep. 2022)
+  - Durasic Aleksandra, Fuchun Wang, and Hao Wu (Enrolled in Sep. 2021)
+  - Xiaoya Chen, Kai Xing, Jiahui Li, and Wenxue Shen(Graduated Jun. 2023)
+  - Qike Zhao, Yaya Cheng, and Haoyu Wang (Graduated Jun. 2022)
+  - Zhilong Zhou, Qian Ye, Hao He, and Ruiming Lang (Graduated Jun. 2021)
+  - Qingsong Zhang, Liyang Zhang, and Ziming Fang (Graduated Jun. 2020)
+  - Yuyu Guo (Graduated Jun. 2019)
+  - Liangfu Cao (Graduated Jun. 2018)
+  - Chuanshu Long (Graduated Jun. 2017)
 
-# 💻 Main Projects
-- *2023.02 - 2024.06*, 2030 Science and Technology Innovation Major Project for Next-Generation Artificial Intelligence by the Ministry of Science and Technology, National Key Research and Development Program of China (No. 2018AAA0102200), **Main Researcher**.
-- *2021.01 - 2025.12*, Research on Key Technologies for Visual Natural Cognition through Collaborative Vision and Language Processing, National Natural Science Foundation of China under Grant (No. 62020106008), **Participant**.
-- *2020.01 - 2022.07*, Research on Scene Graph Generation for E-commerce Live Streaming/Video, Kuaishou (No. 202109FKY00302), **Main Researcher**.
-- *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Participant**.
-- *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**.
+
+# 💻 Research Grants
+- **Lead PI**, *2024.01 - 2027.12*, Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”.
+- **Lead PI**, *2023.06 - 2024.07*, Industry Funds of Kwai Technology: “Large Scale Open-set Multimedia Retrieval”.
+- **Lead PI**, *2022.01 - 2024.12*, Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”.
+- **Lead PI**, *2021.01 - 2024.12*, Ministry of Science and Technology of China, Major Project: “Active Monitoring, Cognition, and Searching for Disaster Environments”.
+- **Lead PI**, *2020.12 - 2021.12*, Fok Ying-Tong Education Foundation of China: “Integrating Natural Language Processing for multimedia Understanding”.
+- **Lead PI**, *2019.01 - 2022.12*, General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”. 
+- **Lead PI**, *2016.01 - 2018.12*, Young Scientists Fund of the National Natural Science Foundation of China: “Deep Learning and Event Driven based Video Mashup”.
+
 
