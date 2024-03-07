@@ -44,7 +44,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Full Publications visit Her [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative scene graph generation via debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
