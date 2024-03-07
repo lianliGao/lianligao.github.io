@@ -53,6 +53,8 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
+**Overcoming the base-new tradeofff (BNT) problem for existing prompt tuning methods.**
+
 </div>
 </div>
 
@@ -65,6 +67,8 @@ K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen.
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
+
+**Applying prompt tuning to impact models to produce generalized features for UCDR.**
 
 </div>
 </div>
