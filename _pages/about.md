@@ -43,7 +43,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dept: Decoupled prompt tuning](https://arxiv.org/pdf/2309.07439.pdf) \\
@@ -56,7 +56,7 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval](https://arxiv.org/pdf/2312.12478.pdf) \\
@@ -84,7 +84,7 @@ K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Label-guided generative adversarial network for realistic image synthesis](https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf) \\
@@ -111,7 +111,7 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/papers/5.jpg' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A closer look at few-shot classification again](https://arxiv.org/pdf/2301.12246.pdf) \\
@@ -125,7 +125,7 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/2311.01755.pdf)  \\
@@ -144,7 +144,8 @@ T. He, **Lianli Gao**, J. Song, and Y. Li.
 <div class='paper-box-text' markdown="1">
 
 [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
-Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song
+Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song.
+
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
@@ -154,7 +155,7 @@ Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/7.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Part-aware transformer for generalizable person re-identification](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
@@ -168,7 +169,7 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/papers/cvpr22.png' alt="sym" height="600" width="800"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/papers/8.png' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Moviefactory: Automatic movie creation from text using large generative models for language and images](https://arxiv.org/pdf/2306.07257.pdf) \\
