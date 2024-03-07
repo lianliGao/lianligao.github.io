@@ -51,6 +51,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 [Informative scene graph generation via debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
  **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
+ 
  <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
@@ -139,12 +140,17 @@ AI and Social Good
 # 🙋 Supervision
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 - **Current Ph.D students:**
-- Kaipeng Fang, Xiao Cai (Enrolled in Jun. 2023)
+  - Kaipeng Fang, Xiao Cai (Enrolled in Jun. 2023)
+1111
+- qq
 
+  - qq
+
+    aaa
 - **Former Ph.D students:**
-- Tao He (Co-supervisor Monash University Jun.2018 - Nov. 2022)
-  \|
-  Towards Unbiased Scene Graph Generation: Techniques and Applications.
+  - Tao He (Co-supervisor Monash University Jun.2018 - Nov. 2022)
+    
+    Towards Unbiased Scene Graph Generation: Techniques and Applications.
 
 # 💻 Research Grants
 - **Lead PI**, *2024.01 - 2027.12*, 2Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”.
