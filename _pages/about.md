@@ -128,7 +128,7 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/231101755.pdf) ) \\
+[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/231101755.pdf)  \\
 T. He, **Lianli Gao**, J. Song, and Y. Li. 
  
  <a href="https://arxiv.org/pdf/2311.01755.pdf""><strong>Paper</strong></a>
@@ -144,7 +144,7 @@ T. He, **Lianli Gao**, J. Song, and Y. Li.
 <div class='paper-box-text' markdown="1">
 
 [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
-Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkuan Song
+Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
