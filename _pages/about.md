@@ -176,7 +176,7 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 
 <a href="https://arxiv.org/pdf/2306.07257.pdf"><strong>Paper</strong></a>
 \|
-<a href="https://lianligao,github.io/"><strong>Code</strong></a>
+<a href="https://www.youtube.com/watch?v=tvDknhMFhzk"><strong>Demo</strong></a>
 
 </div>
 </div>
