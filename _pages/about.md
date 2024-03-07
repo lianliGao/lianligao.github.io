@@ -188,20 +188,7 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 </div>
 </div>
 
-
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
-- `Arxiv 2024` [Context-based Transfer and Efficient Iterative Learning for Unbiased Scene Graph Generation](https://arxiv.org/pdf/2312.17425.pdf), Qisheng Chen, **Xinyu Lyu**, Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song.
-- `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
-- `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
-- `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
-- `ISAIR 2023` [Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274.pdf), **Xinyu Lyu**, Jingwei Liu, Yuyu Guo, Lianli Gao.
-- `ICME 2022` [Learning to Generate Scene Graph from Head to Tail](https://arxiv.org/pdf/2206.11653.pdf),  Chaofan Zheng, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
-- `ICME 2022` [Multi-Scale Graph Attention Network for Scene Graph Generation](https://ieeexplore.ieee.org/document/9859970), Min Chen, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song, Lianli Gao.
-- `ACM MM 2022`  [Dynamic Scene Graph Generation via Temporal Prior Inference](https://dl.acm.org/doi/abs/10.1145/3503161.3548324), Shuang Wang, Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Jingkuan Song.
-- `ACM MM 2021`  (**oral**) [Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Shuaiqi Jing, Jingkuan Song.
-- `PR 2021`  [GuessWhich? Visual dialog with attentive memory network](https://www.sciencedirect.com/science/article/pii/S0031320321000108), Lei Zhao, **Xinyu Lyu**, Jingkuan Song, Lianli Gao.
-- `ACM MM 2019`  (**oral**) [Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition](https://dl.acm.org/doi/10.1145/3343031.3351039), Yue Gu, **Xinyu Lyu**, Weijia Sun, Weitian Li, Shuhong Chen, Xinyu Li, Ivan Marsic.
-<!-- under review -->
 
 
 
