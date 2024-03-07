@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Lianli Gao is a Professor in School of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC). Dr. Gao received her Ph.D in School of Electronic Engineering and Computer Science (ITEE) at University of Queensland in 2014 (under the supervision of [Prof. Jane Hunter](https://staff.itee.uq.edu.au/jane/), [Prof. Michael Bruenig](https://researchers.uq.edu.au/researcher/5052) and [A/Prof. Yuan-Fang Li](https://users.monash.edu.au/~yli/) and her B.CS. in School of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC) in 2009, respectively.
+Dr. Lianli Gao(高联丽) is a Professor in School of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC). Dr. Gao received her Ph.D in School of Electronic Engineering and Computer Science (ITEE) at University of Queensland in 2014 (under the supervision of [Prof. Jane Hunter](https://staff.itee.uq.edu.au/jane/), [Prof. Michael Bruenig](https://researchers.uq.edu.au/researcher/5052) and [A/Prof. Yuan-Fang Li](https://users.monash.edu.au/~yli/) and her B.CS. in School of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC) in 2009, respectively.
 
 Dr. Gao is leader of the Multimedia Analysis and Visual Cognition research group with four Prof. or A/Prof. and three Postdocs. She has a strong ability to develop and author successful grant funding proposals in close collaboration with industry, government partners, and colleagues within and across universities. Her research has been supported by 12 nationally competitive research grants, including one Major Project from the Ministry of Science and Technology of China, two key projects from the National Natural Science Foundation of China, four projects from the industry, etc. In addition, she has served or will serve as ECCV Area Chair 2024, WACV Area Chair 2022-2024, program committee of the IJCAI 24 track on AI and Social Good, AAAI SPC 2022, ACM MM 2021 Session Chair, ACM MM 2021 Workshop Co-chair, IJCAI Session Chair 2019, Guest Editor of 2019 Journal of Visual Communication and Image Representation, etc.
 
@@ -41,7 +41,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 - *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021).
 
 
-# 📝 Publications 
+# 📝 Selective Publications 
 Full Publications visit Her [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
 
