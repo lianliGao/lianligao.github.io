@@ -69,7 +69,7 @@ K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative scene graph generation via debiasing](https://arxiv.org/pdf/2308.05286.pdf) \\
