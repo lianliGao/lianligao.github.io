@@ -128,7 +128,7 @@ X. Lyu, Lianli Gao, P. Zeng, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/2311 01755.pdf) ) \\
+[Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection](https://arxiv.org/pf/231101755.pdf) ) \\
 T. He, **Lianli Gao**, J. Song, and Y. Li. 
  
  <a href="https://arxiv.org/pdf/2311.01755.pdf""><strong>Paper</strong></a>
