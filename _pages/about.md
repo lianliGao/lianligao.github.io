@@ -201,27 +201,27 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 <!-- under review -->
 
 # 🎖 Honors and Services
-- 2023, 2020, 2018 UESTC Research Excellence Award.
-- 2023, 2018 UESTC Excellent Faculty Award for Teaching Excellence.
-- 2023 Chinese Young Female Scholars in Artificial Intelligence.
-- 2021 Sichuan Provincial Academic/Technical Leader (Reserve Candidate).
-- 2020 IEEE Transactions on Multimedia Best Paper Award.
-- 2020 IEEE Technical Community on Multimedia Computing Rising Star Award.
-- 2019 Alibaba DAMO Academy Young Fellow Award.
-- 2017 Australasian Database Conference Best Student Paper Award.
-- Grand Challnges:
--   ECCV2022 DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
--   CVPR2021 Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
--   ICCV2021 DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
--   OPPO2021 Security Challenge 2nd Place award.
--   ICCV 2019 COCO DensePose Task Challenge 2nd place award.
-- Adademic Services:
--   2024: ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
--   2023: WACV Area Chair
--   2022: AAAI SPC, WACV Area Chair
--   2021: ACM MM Session Chair, ACM MM Workshop Co-chair
--   2019: IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image
-Representation, etc.
+- **Research Honors:**
+  - 2023, 2020, 2018 UESTC Research Excellence Award.
+  - 2023, 2018 UESTC Excellent Faculty Award for Teaching Excellence.
+  - 2023 Chinese Young Female Scholars in Artificial Intelligence.
+  - 2021 Sichuan Provincial Academic/Technical Leader (Reserve Candidate).
+  - 2020 IEEE Transactions on Multimedia Best Paper Award.
+  - 2020 IEEE Technical Community on Multimedia Computing Rising Star Award.
+  - 2019 Alibaba DAMO Academy Young Fellow Award.
+  - 2017 Australasian Database Conference Best Student Paper Award.
+- **Grand Challnges:**
+  - ECCV2022: DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - CVPR2021: Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
+  - ICCV2021: DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - OPPO2021: Security Challenge 2nd Place award.
+  - ICCV2019: COCO DensePose Task Challenge 2nd place award.
+- **Adademic Services:**
+  - 2024: ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
+  - 2023: WACV Area Chair
+  - 2022: AAAI SPC, WACV Area Chair
+  - 2021: ACM MM Session Chair, ACM MM Workshop Co-chair
+  - 2019: IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image Representation, etc.
 
 
 # 🙋 Supervision
@@ -263,12 +263,12 @@ Representation, etc.
 
 
 # 💻 Research Grants
-- **Lead PI**, *2024.01 - 2027.12*, Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”.
-- **Lead PI**, *2023.06 - 2024.07*, Industry Funds of Kwai Technology: “Large Scale Open-set Multimedia Retrieval”.
-- **Lead PI**, *2022.01 - 2024.12*, Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”.
-- **Lead PI**, *2021.01 - 2024.12*, Ministry of Science and Technology of China, Major Project: “Active Monitoring, Cognition, and Searching for Disaster Environments”.
-- **Lead PI**, *2020.12 - 2021.12*, Fok Ying-Tong Education Foundation of China: “Integrating Natural Language Processing for multimedia Understanding”.
-- **Lead PI**, *2019.01 - 2022.12*, General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”. 
-- **Lead PI**, *2016.01 - 2018.12*, Young Scientists Fund of the National Natural Science Foundation of China: “Deep Learning and Event Driven based Video Mashup”.
+- *2024.01 - 2027.12*, Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”, **Lead PI**. 
+- *2023.06 - 2024.07*, Industry Funds of Kwai Technology: “Large Scale Open-set Multimedia Retrieval”, **Lead PI**.
+- *2022.01 - 2024.12*, Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”, **Lead PI**.
+- *2021.01 - 2024.12*, Ministry of Science and Technology of China, Major Project: “Active Monitoring, Cognition, and Searching for Disaster Environments”, **Lead PI**.
+- *2020.12 - 2021.12*, Fok Ying-Tong Education Foundation of China: “Integrating Natural Language Processing for multimedia Understanding”, **Lead PI**.
+- *2019.01 - 2022.12*, General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”, **Lead PI**. 
+- *2016.01 - 2018.12*, Young Scientists Fund of the National Natural Science Foundation of China: “Deep Learning and Event Driven based Video Mashup”, **Lead PI**.
 
 
