@@ -47,7 +47,7 @@ Here are some selective publications. For Full Publications, please visit my [Go
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font color="#dd0000">New[Dept: Decoupled prompt tuning.](https://arxiv.org/pdf/2309.07439.pdf) \\
+[Dept: Decoupled prompt tuning.](https://arxiv.org/pdf/2309.07439.pdf) \\
 J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
  
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
@@ -62,7 +62,7 @@ J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font color="#dd0000">New[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.](https://arxiv.org/pdf/2312.12478.pdf) \\
+[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.](https://arxiv.org/pdf/2312.12478.pdf) \\
 K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen. 
  
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
