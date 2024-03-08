@@ -249,39 +249,39 @@ Recognition, CVPR,_ pages 19445–19453, 2022
 # 🙋 Supervision
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 - **Current Ph.D students:**
-  - Kaipeng Fang, Xiao Cai (Enrolled in Jun. 2023)
-  - Xu Luo, Haonan Zhang (Enrolled in Jun. 2022)
-  - Hao Ni, Sitong su (Enrolled in Jun. 2021)
-  - Ji Zhang, Xinyu Lyu and Juncheng Zhu (Enrolled in Jun. 2020)
+  - Kaipeng Fang, Xiao Cai (_Enrolled in Jun. 2023_)
+  - Xu Luo, Haonan Zhang (_Enrolled in Jun. 2022_)
+  - Hao Ni, Sitong su (_Enrolled in Jun. 2021_)
+  - Ji Zhang, Xinyu Lyu and Juncheng Zhu (_Enrolled in Jun. 2020_)
   
 - **Former Ph.D students:**
-  - Tao He (Co-supervisor Monash University Jun.2018 - Nov. 2022)
+  - Tao He (_Co-supervisor Monash University Jun.2018 - Nov. 2022_)
     
     _Thesis: Towards Unbiased Scene Graph Generation: Techniques and Applications._
-  - Xuanhang Wang (Jun. 2019 - Jul. 2023)
+  - Xuanhang Wang (_Jun. 2019 - Jul. 2023_)
   
     _Thesis: Visual semantic understanding based visual dialogue._	
-  - Pengpeng Zeng (Jun. 2019 - Jul. 2023)
+  - Pengpeng Zeng (_Jun. 2019 - Jul. 2023_)
   
     _Thesis: Research on Synergizing Vision and Text for Semantic Consistency Method._
-  - Xiangpeng Li (Jun.2018 - Jul. 2022)
+  - Xiangpeng Li (_Jun.2018 - Jul. 2022_)
   
     _Thesis: Research on Visual Reasoning algorithm that integrates natural language analysis._
-  - Yuyu Guo (Jun. 2018 - Jul. 2022)
+  - Yuyu Guo (_Jun. 2018 - Jul. 2022_)
 	
 	_Thesis: Visual Relationship Generation Based on Scene Understanding._
 
 - **Current and former M.Sc. students:**
-  - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (Enrolled in Sep. 2022)
-  - Jiaqi Guo, Qishen Chen, Youhen Sun, Yixin Qin, and Han Wang (Enrolled in Sep. 2022)
-  - Durasic Aleksandra, Fuchun Wang, and Hao Wu (Enrolled in Sep. 2021)
-  - Xiaoya Chen, Kai Xing, Jiahui Li, and Wenxue Shen(Graduated Jun. 2023)
-  - Qike Zhao, Yaya Cheng, and Haoyu Wang (Graduated Jun. 2022)
-  - Zhilong Zhou, Qian Ye, Hao He, and Ruiming Lang (Graduated Jun. 2021)
-  - Qingsong Zhang, Liyang Zhang, and Ziming Fang (Graduated Jun. 2020)
-  - Yuyu Guo (Graduated Jun. 2019)
-  - Liangfu Cao (Graduated Jun. 2018)
-  - Chuanshu Long (Graduated Jun. 2017)
+  - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (_Enrolled in Sep. 2022_)
+  - Jiaqi Guo, Qishen Chen, Youhen Sun, Yixin Qin, and Han Wang (_Enrolled in Sep. 2022)_
+  - Durasic Aleksandra, Fuchun Wang, and Hao Wu (_Enrolled in Sep. 2021_)
+  - Xiaoya Chen, Kai Xing, Jiahui Li, and Wenxue Shen(_Graduated Jun. 2023_)
+  - Qike Zhao, Yaya Cheng, and Haoyu Wang (_Graduated Jun. 2022_)
+  - Zhilong Zhou, Qian Ye, Hao He, and Ruiming Lang (_Graduated Jun. 2021_)
+  - Qingsong Zhang, Liyang Zhang, and Ziming Fang (_Graduated Jun. 2020_)
+  - Yuyu Guo (_Graduated Jun. 2019_)
+  - Liangfu Cao (_Graduated Jun. 2018_)
+  - Chuanshu Long (_Graduated Jun. 2017_)
 
 
 # 💻 Research Grants
