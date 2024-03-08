@@ -291,7 +291,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
 
 
 # 💻 Research Grants
- some **selective Research Grants**: 
+ some selective Research Grants: 
 - *2024.01 - 2027.12*, Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”, **Lead PI**
 - *2022.01 - 2024.12*, Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”, **Lead PI**.
 - *2019.01 - 2022.12*, General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”, **Lead PI**. 
