@@ -181,7 +181,7 @@ In _IEEE/CVF International Conference on Computer Vision_ (**ICCV**), pages 1124
 \|
 <a href="https://github.com/liyuke65535/Part-Aware-Transformer"><strong>Code</strong></a>
 
-**Mitagating domain-specific biases in Domain generalization person re-identification.**
+**Mitagating domain-specific biases in Domain generalization person ReID.**
 
 </div>
 </div>
