@@ -54,7 +54,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
-**Overcoming the base-new trade-off (BNT) problem for existing prompt tuning methods.**
+**Overcoming base-new trade-off problem for existing prompt tuning methods.**
 
 </div>
 </div>
@@ -69,7 +69,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
 
-**Applying prompt tuning to impact models to produce generalized features for UCDR.**
+**Applying prompt tuning to impact models producing generalized features for UCDR.**
 
 </div>
 </div>
