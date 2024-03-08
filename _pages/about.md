@@ -30,6 +30,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.02*: &nbsp; Two papers were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)!
+- *2024.02*: &nbsp; One papers were accepted by International Journal of Computer Vision (IJCV) (CVPR 2024)!
 - *2024.01*: &nbsp; Four papers were accepted by IEEE Transactions on Multimedia (TMM 2024)!
 - *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
 - *2023.09*: &nbsp; One paper was accepted by Annual Conference on Neural Information Processing Systems (NeurIPS 2023)!
@@ -38,7 +39,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 - *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023)!
 - *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
 - *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
-- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2023)!
+
 
 
 # 📝 Publications 
