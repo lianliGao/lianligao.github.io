@@ -249,13 +249,13 @@ Recognition, CVPR,_ pages 19445–19453, 2022
 # 🙋 Supervision
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 - **Current Ph.D students:**
-  - Kaipeng Fang, Xiao Cai (_Enrolled in Jun. 2023_)
-  - Xu Luo, Haonan Zhang (_Enrolled in Jun. 2022_)
-  - Hao Ni, Sitong su (_Enrolled in Jun. 2021_)
-  - Ji Zhang, Xinyu Lyu and Juncheng Zhu (_Enrolled in Jun. 2020_)
+  - Kaipeng Fang, Xiao Cai (Enrolled in _Jun. 2023_)
+  - Xu Luo, Haonan Zhang (Enrolled in _Jun. 2022_)
+  - Hao Ni, Sitong su (Enrolled in _Jun. 2021_)
+  - Ji Zhang, Xinyu Lyu and Juncheng Zhu (Enrolled in _Jun. 2020_)
   
 - **Former Ph.D students:**
-  - Tao He (_Co-supervisor Monash University Jun.2018 - Nov. 2022_)
+  - Tao He (Co-supervisor Monash University _Jun.2018 - Nov. 2022_)
     
     _Thesis: Towards Unbiased Scene Graph Generation: Techniques and Applications._
   - Xuanhang Wang (_Jun. 2019 - Jul. 2023_)
@@ -272,16 +272,16 @@ Recognition, CVPR,_ pages 19445–19453, 2022
 	_Thesis: Visual Relationship Generation Based on Scene Understanding._
 
 - **Current and former M.Sc. students:**
-  - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (_Enrolled in Sep. 2022_)
-  - Jiaqi Guo, Qishen Chen, Youhen Sun, Yixin Qin, and Han Wang (_Enrolled in Sep. 2022)_
-  - Durasic Aleksandra, Fuchun Wang, and Hao Wu (_Enrolled in Sep. 2021_)
-  - Xiaoya Chen, Kai Xing, Jiahui Li, and Wenxue Shen(_Graduated Jun. 2023_)
-  - Qike Zhao, Yaya Cheng, and Haoyu Wang (_Graduated Jun. 2022_)
-  - Zhilong Zhou, Qian Ye, Hao He, and Ruiming Lang (_Graduated Jun. 2021_)
-  - Qingsong Zhang, Liyang Zhang, and Ziming Fang (_Graduated Jun. 2020_)
-  - Yuyu Guo (_Graduated Jun. 2019_)
-  - Liangfu Cao (_Graduated Jun. 2018_)
-  - Chuanshu Long (_Graduated Jun. 2017_)
+  - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (Enrolled in _Sep. 2022_)
+  - Jiaqi Guo, Qishen Chen, Youhen Sun, Yixin Qin, and Han Wang (Enrolled in _Sep. 2022_)
+  - Durasic Aleksandra, Fuchun Wang, and Hao Wu (Enrolled in _Sep. 2021_)
+  - Xiaoya Chen, Kai Xing, Jiahui Li, and Wenxue Shen(Graduated _Jun. 2023_)
+  - Qike Zhao, Yaya Cheng, and Haoyu Wang (Graduated _Jun. 2022_)
+  - Zhilong Zhou, Qian Ye, Hao He, and Ruiming Lang (Graduated _Jun. 2021_)
+  - Qingsong Zhang, Liyang Zhang, and Ziming Fang (Graduated _Jun. 2020_)
+  - Yuyu Guo (Graduated _Jun. 2019_)
+  - Liangfu Cao (Graduated _Jun. 2018_)
+  - Chuanshu Long (Graduated _Jun. 2017_)
 
 
 # 💻 Research Grants
