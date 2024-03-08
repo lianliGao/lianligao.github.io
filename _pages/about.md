@@ -196,7 +196,7 @@ In _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM M
 \|
 <a href="https://www.youtube.com/watch?v=tvDknhMFhzk"><strong>Demo</strong></a>
 
-**Empowering users to create captivating movies with smooth transitions using simple text inputs.**
+**Empowering users to create captivating movies using simple text inputs.**
 
 </div>
 </div>
