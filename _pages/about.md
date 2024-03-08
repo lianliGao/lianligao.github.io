@@ -69,7 +69,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
 
-**Applying prompt tuning to impact models producing generalized features for UCDR.**
+**Applying prompt tuning to produce generalized features for UCDR.**
 
 </div>
 </div>
