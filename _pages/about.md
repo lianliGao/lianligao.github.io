@@ -252,7 +252,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - Kaipeng Fang, Xiao Cai (Enrolled in _Jun. 2023_)
   - Xu Luo, Haonan Zhang (Enrolled in _Jun. 2022_)
   - Hao Ni, Sitong su (Enrolled in _Jun. 2021_)
-  - Ji Zhang, Xinyu Lyu and Juncheng Zhu (Enrolled in _Jun. 2020_)
+  - Ji Zhang, Xinyu Lyu, and Juncheng Zhu (Enrolled in _Jun. 2020_)
   
 - **Former Ph.D students:**
   - Tao He (Co-supervisor Monash University _Jun.2018 - Nov. 2022_)
@@ -284,12 +284,13 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - Chuanshu Long (Graduated _Jun. 2017_)
 
 
-# 💻 selected Research Grants
-- *2024.01 - 2027.12*, Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”, **Lead PI**. 
-- *2022.01 - 2024.12*, Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”, **Lead PI**.
+# 💻 Partial Research Grants
+- *2024.01 - 2027.12*, **Lead PI**，Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”
+- *2022.01 - 2024.12*, **Lead PI** Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”, **Lead PI**.
+- *2019.01 - 2022.12*, **Lead PI** General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”, **Lead PI**. 
+- *2016.01 - 2018.12*, **Lead PI** Young Scientists Fund of the National Natural Science Foundation of China: “Deep Learning and Event Driven based Video Mashup”, **Lead PI**.
+
+<!-- 
+- *2020.12 - 2021.12*, **Lead PI** Fok Ying-Tong Education Foundation of China: “Integrating Natural Language Processing for multimedia Understanding”, **Lead PI**.
 - *2021.01 - 2024.12*, Ministry of Science and Technology of China, Major Project: “Active Monitoring, Cognition, and Searching for Disaster Environments”, **PI**.
-- *2020.12 - 2021.12*, Fok Ying-Tong Education Foundation of China: “Integrating Natural Language Processing for multimedia Understanding”, **Lead PI**.
-- *2019.01 - 2022.12*, General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”, **Lead PI**. 
-- *2016.01 - 2018.12*, Young Scientists Fund of the National Natural Science Foundation of China: “Deep Learning and Event Driven based Video Mashup”, **Lead PI**.
-
-
+ -->
