@@ -30,7 +30,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.02*: &nbsp; Two papers were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)!
-- *2024.02*: &nbsp; One papers were accepted by International Journal of Computer Vision (IJCV)!
+<!-- - *2024.02*: &nbsp; One papers were accepted by International Journal of Computer Vision (IJCV)! -->
 - *2024.01*: &nbsp; Four papers were accepted by IEEE Transactions on Multimedia (TMM 2024)!
 - *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
 - *2023.09*: &nbsp; One paper was accepted by Annual Conference on Neural Information Processing Systems (NeurIPS 2023)!
@@ -44,6 +44,24 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
+ **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
+_ArXiv_ (****), 2024\\
+ <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
+
+**Making balanced and informative predicate prediction for SGG.**
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,20 +93,8 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
- **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
-_International Journal of Computer Vision_ (**IJCV**), 2024\\
- <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 
-**Making balanced and informative predicate prediction for SGG.**
-
-</div>
-</div>
 
 
 
