@@ -245,7 +245,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - *2019:* IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image Representation, etc.
 
 
-# 🙋 Supervision
+# 🙋 Supervisions
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 - **Current Ph.D students:**
   - Kaipeng Fang, Xiao Cai (Enrolled in _Jun. 2023_)
