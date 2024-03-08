@@ -48,13 +48,13 @@ Here are some selective publications. For Full Publications, please visit my [Go
 <div class='paper-box-text' markdown="1">
 
 [**Dept: Decoupled prompt tuning.**](https://arxiv.org/pdf/2309.07439.pdf) \\
-J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.
- 
+J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.\\
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024\\
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
-**Overcoming the base-new trade-off (BNT) problem for existing prompt tuning methods.**
+Overcoming the base-new trade-off (BNT) problem for existing prompt tuning methods.
 
 </div>
 </div>
