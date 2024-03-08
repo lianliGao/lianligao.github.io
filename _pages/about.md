@@ -228,7 +228,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - *2023*, *2018* UESTC Excellent Faculty Award for Teaching Excellence.
   - *2023* Chinese Young Female Scholars in Artificial Intelligence.
   - *2021* Sichuan Provincial Academic/Technical Leader (Reserve Candidate).
-  - *2020* IEEE Transactions on Multimedia Best Paper Award.
+<!--   - *2020* IEEE Transactions on Multimedia Best Paper Award. -->
   - *2020* IEEE Technical Community on Multimedia Computing Rising Star Award.
   - *2019* Alibaba DAMO Academy Young Fellow Award.
   - *2017* Australasian Database Conference Best Student Paper Award.
