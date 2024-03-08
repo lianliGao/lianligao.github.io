@@ -49,7 +49,7 @@ Here are some selective publications. For full publications, please visit my [Go
 
 [**Dept: Decoupled prompt tuning.**](https://arxiv.org/pdf/2309.07439.pdf) \\
 J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.\\
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024\\
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024\\
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
@@ -62,9 +62,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024\\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.](https://arxiv.org/pdf/2312.12478.pdf) \\
-K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen. 
- 
+[**Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.**](https://arxiv.org/pdf/2312.12478.pdf) \\
+K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen. \\
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024\\
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
@@ -77,9 +77,9 @@ K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Informative scene graph generation via debiasing.](https://arxiv.org/pdf/2308.05286.pdf) \\
+[**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
  **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
- 
+International Journal of Computer Vision (**IJCV**), 2024\\
  <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
@@ -95,8 +95,8 @@ K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen.
 <div class='paper-box-text' markdown="1">
 
 [Label-guided generative adversarial network for realistic image synthesis.](https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf) \\
-J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.
- 
+J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 45(11):13921–13940, 2023\\
  <a href="https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/RoseRollZhu/Lab2Pix-V2"><strong>Code</strong></a>
@@ -112,7 +112,7 @@ J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.
 
 [Adaptive fine-grained predicates learning for scene graph generation.](https://arxiv.org/pdf/2207.04602.pdf) \\
 X. Lyu, **Lianli Gao**, P. Zeng, H. T. Shen, and J. Song.
- 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023\\
  <a href="https://arxiv.org/pdf/2207.04602.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
@@ -126,7 +126,7 @@ X. Lyu, **Lianli Gao**, P. Zeng, H. T. Shen, and J. Song.
 
 [A closer look at few-shot classification again.](https://arxiv.org/pdf/2301.12246.pdf) \\
  X. Luo, H. Wu, J. Zhang, **Lianli Gao**, J. Xu, and J. Song.
-
+International Conference on Machine Learning (**ICML**), 2023\\
 <a href="https://arxiv.org/pdf/2301.12246.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Frankluox/CloserLookAgainFewShot"><strong>Code</strong></a>
@@ -142,7 +142,7 @@ X. Lyu, **Lianli Gao**, P. Zeng, H. T. Shen, and J. Song.
 
 [Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection.](https://arxiv.org/pdf/2311.01755.pdf)  \\
 T. He, **Lianli Gao**, J. Song, and Y. Li. 
- 
+IEEE Transaction on Image Processing, (**TIP**), 2023\\
 <a href="https://arxiv.org/pdf/2311.01755.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://lianligao,github.io/"><strong>Code</strong></a>
@@ -159,7 +159,7 @@ T. He, **Lianli Gao**, J. Song, and Y. Li.
 
 [Prototype-based Embedding Network for Scene Graph Generation.](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
 Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song.
-
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023\\
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
@@ -175,7 +175,7 @@ Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song.
 
 [Part-aware transformer for generalizable person re-identification.](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf) \\
 H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
-
+IEEE International Conference on Computer Vision (**ICCV**), 2023\\
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/liyuke65535/Part-Aware-Transformer"><strong>Code</strong></a>
@@ -190,7 +190,7 @@ H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.
 
 [Moviefactory: Automatic movie creation from text using large generative models for language and images.](https://arxiv.org/pdf/2306.07257.pdf) \\
  J. Zhu, H. Yang, H. He, W.Wang, Z. Tuo, W. Cheng, **Lianli Gao**, J. Song, and J. Fu. 
-
+ACM International Conference on Multimedia (**ACM MM**), 2023\\
 <a href="https://arxiv.org/pdf/2306.07257.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://www.youtube.com/watch?v=tvDknhMFhzk"><strong>Demo</strong></a>
