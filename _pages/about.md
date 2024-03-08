@@ -38,7 +38,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 - *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023)!
 - *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023)!
 - *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Procerssing (TIP 2023)!
-- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2021)!
+- *2023.01*: &nbsp; One paper was accepted by Pattern Recognition (PR 2023)!
 
 
 # 📝 Publications 
