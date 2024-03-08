@@ -54,7 +54,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024\\
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
 
-Overcoming the base-new trade-off (BNT) problem for existing prompt tuning methods.
+**Overcoming the base-new trade-off (BNT) problem for existing prompt tuning methods.**
 
 </div>
 </div>
