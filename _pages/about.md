@@ -233,11 +233,11 @@ Recognition, CVPR,_ pages 19445–19453, 2022
   - *2019* Alibaba DAMO Academy Young Fellow Award.
   - *2017* Australasian Database Conference Best Student Paper Award.
 - **Grand Challenges:**
-  - *ECCV2022:* DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
-  - *CVPR2021:* Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
-  - *ICCV2021:* DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
-  - *OPPO2021:* Security Challenge 2nd Place award.
-  - *ICCV2019:* COCO DensePose Task Challenge 2nd place award.
+  - *ECCV 2022:* DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - *CVPR 2021:* Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
+  - *ICCV 2021:* DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - *OPPO 2021:* Security Challenge 2nd Place award.
+  - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Adademic Services:**
   - *2024:* ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
   - *2023:* WACV Area Chair
