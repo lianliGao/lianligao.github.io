@@ -79,7 +79,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 
 [**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
  **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
-In _International Journal of Computer Vision_ (**IJCV**), 2024\\
+_International Journal of Computer Vision_ (**IJCV**), 2024\\
  <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
@@ -97,7 +97,7 @@ In _International Journal of Computer Vision_ (**IJCV**), 2024\\
 
 [**Label-guided generative adversarial network for realistic image synthesis.**](https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf) \\
 J. Zhu, **Lianli Gao**, J. Song, Y. Li, F. Zheng, X. Li, and H. T. Shen.\\
-In _IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(3):3311–3328, 2023\\
+_IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(3):3311–3328, 2023\\
  <a href="https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/RoseRollZhu/Lab2Pix-V2"><strong>Code</strong></a>
@@ -113,7 +113,7 @@ In _IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(3):3311–3328, 202
 
 [**Adaptive fine-grained predicates learning for scene graph generation.**](https://arxiv.org/pdf/2207.04602.pdf) \\
 X. Lyu, **Lianli Gao**, P. Zeng, H. T. Shen, and J. Song.\\
-In _IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(11):13921–13940, 2023\\
+_IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(11):13921–13940, 2023\\
  <a href="https://arxiv.org/pdf/2207.04602.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/XinyuLyu/FGPL"><strong>Code</strong></a>
@@ -143,7 +143,7 @@ In _International Conference on Machine Learning_ (**ICML**), pages 23103–2312
 
 [**Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection.**](https://arxiv.org/pdf/2311.01755.pdf)  \\
 T. He, **Lianli Gao**, J. Song, and Y. Li. \\
-In _IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
+_IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
 <a href="https://arxiv.org/pdf/2311.01755.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://lianligao,github.io/"><strong>Code</strong></a>
@@ -203,7 +203,7 @@ In _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM M
 
 
 
-- `ECCV 2022` [State-aware compositional learning toward unbiased training for scene graph generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654), T. He, **Lianli Gao**, J. Song, and Y. Li. 
+- `ECCV 2022` [State-aware compositional learning toward unbiased training for scene graph generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654), T. He, **Lianli Gao**, J. Song, and Y. Li. _IEEE Trans. Image Process._, 32:43–56, 2023
 - `TIP 2023` [From global to local: Multi-scale out-of-distribution detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654), J. Zhang, **Lianli Gao**, B. Hao, H. Huang, J. Song, and H. Shen.
 - `ICCV 2023` [DETA: denoised task adaptation for few-shot learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_DETA_Denoised_Task_Adaptation_for_Few-Shot_Learning_ICCV_2023_paper.pdf), J. Zhang, **Lianli Gao**, X. Luo, H. Shen, and J. Song. 
 - `TIP 2022` [Hierarchical representation network with auxiliary tasks for video captioning and video question answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9592722), **Lianli Gao**, Y. Lei, P. Zeng, J. Song, M. Wang, and H. T. Shen.
@@ -230,7 +230,7 @@ In _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM M
   - *2020* IEEE Technical Community on Multimedia Computing Rising Star Award.
   - *2019* Alibaba DAMO Academy Young Fellow Award.
   - *2017* Australasian Database Conference Best Student Paper Award.
-- **Grand Challnges:**
+- **Grand Challenges:**
   - *ECCV2022:* DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
   - *CVPR2021:* Security AI Challenger Phrase VI Track 1st Place award in White-box Adversarial Attacks on ML Defense Models.
   - *ICCV2021:* DeeperAction Challenge 3rd Place award on Track 3 Kinetics-TPS Challenge on Part-level Action Parsing.
