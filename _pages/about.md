@@ -42,7 +42,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 
 # 📝 Publications 
-Here are some selective publications. For full publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
+Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
