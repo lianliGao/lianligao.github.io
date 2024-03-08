@@ -284,8 +284,8 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - Chuanshu Long (Graduated _Jun. 2017_)
 
 
-# 💻 Partial Research Grants
-- *2024.01 - 2027.12*, **Lead PI**，Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”
+# 💻 Research Grants
+- *2024.01 - 2027.12*, **Lead PI** Key Program of National Natural Science Foundation of China: “Trusted Big Cross-Meida Data Analysis and Key Technologies”
 - *2022.01 - 2024.12*, **Lead PI** Distinguished Young Scholars of the National Natural Science Foundation of China: “Visual Cognition by Integrating Natural Language”, **Lead PI**.
 - *2019.01 - 2022.12*, **Lead PI** General Program of National Natural Science Foundation of China: “Deep Visual Understanding by Fusing Natural Language Processing”, **Lead PI**. 
 - *2016.01 - 2018.12*, **Lead PI** Young Scientists Fund of the National Natural Science Foundation of China: “Deep Learning and Event Driven based Video Mashup”, **Lead PI**.
