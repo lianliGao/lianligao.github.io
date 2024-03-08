@@ -273,7 +273,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022
 
 - **Current and former M.Sc. students:**
   - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (Enrolled in _Sep. 2022_)
-  - Jiaqi Guo, Qishen Chen, Youhen Sun, Yixin Qin, and Han Wang (Enrolled in _Sep. 2022_)
+  - Jiaqi Guo, Qisheng Chen, Youhen Sun, Yixin Qin, and Han Wang (Enrolled in _Sep. 2022_)
   - Durasic Aleksandra, Fuchun Wang, and Hao Wu (Enrolled in _Sep. 2021_)
   - Xiaoya Chen, Kai Xing, Jiahui Li, and Wenxue Shen (Graduated _Jun. 2023_)
   - Qike Zhao, Yaya Cheng, and Haoyu Wang (Graduated _Jun. 2022_)
