@@ -132,7 +132,7 @@ In _International Conference on Machine Learning_ (**ICML**), pages 23103–2312
 \|
 <a href="https://github.com/Frankluox/CloserLookAgainFewShot"><strong>Code</strong></a>
 
-**Empirically proving the disentanglement of training and test-time adaptation algorithms in few-shot classification.**
+**Empirically proving disentanglement of training and test-time adaptation algorithms in FSL.**
 
 </div>
 </div>
