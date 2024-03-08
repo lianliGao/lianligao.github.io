@@ -159,7 +159,7 @@ _IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
 <div class='paper-box-text' markdown="1">
 
 [**Prototype-based Embedding Network for Scene Graph Generation.**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
-Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song.\\
+C. Zheng, X. Lyu, **Lianli Gao**, B. Dai, and J. Song.\\
 In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), pages 22783–22792, 2023\\
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf"><strong>Paper</strong></a>
 \|
