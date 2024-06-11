@@ -246,11 +246,13 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - *OPPO 2021:* Security Challenge 2nd Place award.
   - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Academic Services:**
+  - *2025:* Senior program committee of AAAI 2025.
   - *2024:* ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
   - *2023:* WACV Area Chair
   - *2022:* AAAI SPC, WACV Area Chair
   - *2021:* ACM MM Session Chair, ACM MM Workshop Co-chair
   - *2019:* IJCAI Session Chair, Guest Editor of Journal of Visual Communication and Image Representation, etc.
+  - *2018-Now:* Reviewers of IEEE TPAMI, TIP, TMM, TNNLS, TOC; CVPR, ECCV, ICCV, AAAI, IJCAI, NeurIPS, ICML, MM, IJCAI and etc.
 
 
 # 🙋 Supervisions
