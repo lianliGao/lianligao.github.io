@@ -27,8 +27,12 @@ Her research interests include multimedia understanding, computer vision,  artif
 Her Teaching covers a wide range of courses at different levels for both international and national students, including "Introduction to Big Data", "Data Structure and Algorithm", "Introduction to Computer Vision", "Semantic Web", "Experiments of Artificial Intelligence", "Welcome to Academic World" etc. She received very positive feedback (e.g., "nice teacher", "well-organized", "good experience" and "dedicated to providing us with knowledge“) from her students with a well-deserved 5-star rating. In addition, she has been mentoring junior staff by assessing peer-to-peer teaching performance via attending their classes. Her dedication earned her Excellent Faculty Award for Outstanding Teaching in 2018 and 2023.
 -->
 
+# 🔥 Hire
+ We consistently have open positions available for Professors, Associate Professors, Lecturers, Postdocs, and PhD students. If you are interested Feel free to reach out to me via email.
+  
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.08*: &nbsp; Best Paper Candidate of ICME 2024!
 - *2024.02*: &nbsp; Two papers were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)!
 <!-- - *2024.02*: &nbsp; One papers were accepted by International Journal of Computer Vision (IJCV)! -->
 - *2024.01*: &nbsp; Four papers were accepted by IEEE Transactions on Multimedia (TMM 2024)!
@@ -39,7 +43,6 @@ Her Teaching covers a wide range of courses at different levels for both interna
 - *2023.05*: &nbsp; Two papers were accepted by IEEE/CVF International Conference on Computer Vision (ICCV 2023)!
 - *2023.03*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
 - *2023.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
-
 
 
 # 📝 Publications 
