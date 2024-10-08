@@ -54,6 +54,21 @@ Here are some **selective publications**. For **full publications**, please visi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
+C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
+In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
+ <strong>Paper</strong>
+\|
+<a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a>
+
+[**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
+B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
+In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
+<strong>Paper</strong>
+\|
+<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+
+
 [**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
  **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
 _ArXiv_ (****), 2024\\
