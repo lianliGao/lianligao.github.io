@@ -57,8 +57,10 @@ C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
 In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
  <strong>Paper</strong>
 \|
-<a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a>
+<a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a> 
+
 **Proposing a benchmark of Continual Instruction tuNing for MLLMs .**
+
 </div>
 </div>
 
@@ -71,8 +73,10 @@ B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
 In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
 <strong>Paper</strong>
 \|
-<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
+
 **Alleviating Hallucinations in LVLMs.**
+
 </div>
 </div>
 
