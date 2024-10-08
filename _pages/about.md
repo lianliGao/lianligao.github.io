@@ -33,7 +33,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.10*: &nbsp; Two papers accepted by NeurIPS 2024!
-- *2024.09*: &nbsp; Serve as Associate Editor of IEEE TMM!
+- *2024.09*: &nbsp; appointed as an Associate Editor for IEEE Transactions on Multimedia 2024!
 - *2024.08*: &nbsp; Best Paper Candidate of ICME 2024!
 - *2024.02*: &nbsp; Two papers were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)!
 - *2024.01*: &nbsp; Four papers were accepted by IEEE Transactions on Multimedia (TMM 2024)!
