@@ -55,7 +55,7 @@ Here are some **selective publications**. For **full publications**, please visi
 [**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
 C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
 In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
- <strong>Paper</strong>
+<a href="https://arxiv.org/abs/2403.08350"> <strong>Paper</strong></a>
 \|
 <a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a> 
 
@@ -71,7 +71,7 @@ In _Advances in Neural Information Processing Systems 38: Annual Conference on N
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
 B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
 In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
-<strong>Paper</strong>
+<a href="https://arxiv.org/pdf/2405.15356"> <strong>Paper</strong></a>
 \|
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
 
