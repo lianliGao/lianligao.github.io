@@ -49,25 +49,35 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+	
 [**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
 C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
 In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
  <strong>Paper</strong>
 \|
 <a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a>
+**Proposing a benchmark of Continual Instruction tuNing for MLLMs .**
+</div>
+</div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
 B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
 In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
 <strong>Paper</strong>
 \|
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+**Alleviating Hallucinations in LVLMs.**
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
  **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
@@ -91,7 +101,6 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
-
 **Overcoming base-new trade-off problem for existing prompt tuning methods.**
 
 </div>
@@ -106,15 +115,10 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
-
 **Applying prompt tuning to produce generalized features for UCDR.**
 
 </div>
 </div>
-
-
-
-
 
 
 
