@@ -49,7 +49,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 [**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
@@ -63,7 +63,7 @@ In _Advances in Neural Information Processing Systems 38: Annual Conference on N
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
