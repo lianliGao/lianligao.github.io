@@ -75,6 +75,7 @@ In _Advances in Neural Information Processing Systems 38: Annual Conference on N
 \|
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
 
+
 **Alleviating Hallucinations in LVLMs.**
 
 </div>
@@ -89,6 +90,7 @@ _ArXiv_ (****), 2024\\
  <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
+
 
 **Making balanced and informative predicate prediction for SGG.**
 
@@ -105,6 +107,8 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
+
+
 **Overcoming base-new trade-off problem for existing prompt tuning methods.**
 
 </div>
@@ -119,6 +123,8 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
+
+
 **Applying prompt tuning to produce generalized features for UCDR.**
 
 </div>
