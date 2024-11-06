@@ -263,8 +263,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
 
 # 🎖 Honors and Services
 - **Research Honors:**
-  - *2024* Rising Star of Science Award.
-  - *2023* Rising Star of Science Award.
+  - *2023, 2024* Rising Star of Science Award.
   - *2023*, *2020*, *2018* UESTC Research Excellence Award.
   - *2023*, *2018* UESTC Excellent Faculty Award for Teaching Excellence.
   - *2023* Chinese Young Female Scholars in Artificial Intelligence.
