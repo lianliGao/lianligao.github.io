@@ -263,6 +263,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
 
 # 🎖 Honors and Services
 - **Research Honors:**
+  - *2024* Rising Star of Science Award.
   - *2023* Rising Star of Science Award.
   - *2023*, *2020*, *2018* UESTC Research Excellence Award.
   - *2023*, *2018* UESTC Excellent Faculty Award for Teaching Excellence.
@@ -280,6 +281,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Academic Services:**
   - *2025:* Senior program committee of AAAI 2025.
+  - *2024:* Associate Editor for IEEE Transactions on Multimedia 2024!
   - *2024:* ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
   - *2023:* WACV Area Chair
   - *2022:* AAAI SPC, WACV Area Chair
