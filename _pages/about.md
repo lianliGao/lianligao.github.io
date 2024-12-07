@@ -54,7 +54,7 @@ Here are some **selective publications**. For **full publications**, please visi
 
 [**Dept: Decoupled prompt tuning.**](https://arxiv.org/pdf/2309.07439.pdf) \\
 J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.\\
-In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2024\\
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2024\\
  <a href="https://ieeexplore.ieee,org/stamp/stamp.jsp?arnumber=9969654"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Koorye/DePT"><strong>Code</strong></a>
@@ -70,7 +70,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 
 [**Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.**](https://arxiv.org/pdf/2312.12478.pdf) \\
 K. Fang, J. Song, **Lianli Gao**, P. Zeng, Z.-Q. Cheng, X. Li, and H. T. Shen. \\
-In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2024\\
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2024\\
  <a href="https://arxiv.org/pdf/2312.12478.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/fangkaipeng/ProS"><strong>Code</strong></a>
@@ -86,7 +86,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
   
 [**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
 C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
-In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
+_Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
 <a href="https://arxiv.org/abs/2403.08350"> <strong>Paper</strong></a>
 \|
 <a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a> 
@@ -101,7 +101,7 @@ In _Advances in Neural Information Processing Systems 38: Annual Conference on N
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
 B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
-In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
+_Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
 <a href="https://arxiv.org/pdf/2405.15356"> <strong>Paper</strong></a>
 \|
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
@@ -117,7 +117,7 @@ In _Advances in Neural Information Processing Systems 38: Annual Conference on N
  
 [**Any Target Can be Offense: Adversarial ExampleGeneration via Generalized Latent Infection.**](https://arxiv.org/pdf/2407.12292) \\
 Y. Sun, S. Yuan, X. Wang, **Lianli Gao**, J. Song. \\
-In _European Conference on Computer Vision_ (**ECCV**), 2024\\
+_European Conference on Computer Vision_ (**ECCV**), 2024\\
 <a href="https://arxiv.org/pdf/2407.12292"> <strong>Paper</strong></a>
 \|
 <a href="https://github.com/VL-Group/GAKer"><strong>Code</strong></a> 
@@ -195,7 +195,7 @@ _IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(11):13921–13940, 202
 
 [**A closer look at few-shot classification again.**](https://arxiv.org/pdf/2301.12246.pdf) \\
  X. Luo, H. Wu, J. Zhang, **Lianli Gao**, J. Xu, and J. Song.\\
-In _International Conference on Machine Learning_ (**ICML**), pages 23103–23123, 2023\\
+_International Conference on Machine Learning_ (**ICML**), pages 23103–23123, 2023\\
 <a href="https://arxiv.org/pdf/2301.12246.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Frankluox/CloserLookAgainFewShot"><strong>Code</strong></a>
@@ -210,7 +210,7 @@ In _International Conference on Machine Learning_ (**ICML**), pages 23103–2312
 
 [**Prototype-based Embedding Network for Scene Graph Generation.**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
 C. Zheng, X. Lyu, **Lianli Gao**, B. Dai, and J. Song.\\
-In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), pages 22783–22792, 2023\\
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), pages 22783–22792, 2023\\
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
@@ -226,7 +226,7 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 
 [**Part-aware transformer for generalizable person re-identification.**](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf) \\
 H. Ni, Y. Li, **Lianli Gao**, H. T. Shen, and J. Song.\\
-In _IEEE/CVF International Conference on Computer Vision_ (**ICCV**), pages 11246–11255, 2023\\
+_IEEE/CVF International Conference on Computer Vision_ (**ICCV**), pages 11246–11255, 2023\\
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/liyuke65535/Part-Aware-Transformer"><strong>Code</strong></a>
@@ -257,7 +257,7 @@ _IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
 
 [**Moviefactory: Automatic movie creation from text using large generative models for language and images.**](https://arxiv.org/pdf/2306.07257.pdf) \\
  J. Zhu, H. Yang, H. He, W.Wang, Z. Tuo, W. Cheng, **Lianli Gao**, J. Song, and J. Fu. \\
-In _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**), pages 9313–9319, 2023\\
+_Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**), pages 9313–9319, 2023\\
 <a href="https://arxiv.org/pdf/2306.07257.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://www.youtube.com/watch?v=tvDknhMFhzk"><strong>Demo</strong></a>
