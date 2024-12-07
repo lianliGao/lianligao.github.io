@@ -49,55 +49,6 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-[**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
-C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
-In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
-<a href="https://arxiv.org/abs/2403.08350"> <strong>Paper</strong></a>
-\|
-<a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a> 
-
-**Proposing a benchmark of Continual Instruction tuNing for MLLMs .**
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-[**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
-B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
-In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
-<a href="https://arxiv.org/pdf/2405.15356"> <strong>Paper</strong></a>
-\|
-<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
-
-
-**Alleviating Hallucinations in LVLMs.**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
- **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
-_ArXiv_ (****), 2024\\
- <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
-
-
-**Making balanced and informative predicate prediction for SGG.**
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -130,6 +81,83 @@ In _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
+C. Chen, J. Zhu, X. Luo, H. T. Shen, **Lianli Gao**, J. Song. \\
+In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
+<a href="https://arxiv.org/abs/2403.08350"> <strong>Paper</strong></a>
+\|
+<a href="https://github.com/zackschen/CoIN"><strong>Code</strong></a> 
+
+**Proposing a benchmark of Continual Instruction tuNing for MLLMs .**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
+B. Chen, X. Lyu, **Lianli Gao**, J. Song and H. T. Shen. \\
+In _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
+<a href="https://arxiv.org/pdf/2405.15356"> <strong>Paper</strong></a>
+\|
+<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
+
+
+**Alleviating Hallucinations in LVLMs.**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024-GAKer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+[**Any Target Can be Offense: Adversarial ExampleGeneration via Generalized Latent Infection.**](https://arxiv.org/pdf/2407.12292) \\
+Y. Sun, S. Yuan, X. Wang, **Lianli Gao**, J. Song. \\
+In _European Conference on Computer Vision_ (**ECCV**), 2024\\
+<a href="https://arxiv.org/pdf/2407.12292"> <strong>Paper</strong></a>
+\|
+<a href="https://github.com/VL-Group/GAKer"><strong>Code</strong></a> 
+
+**Proposing a method enabling construct adversarial examples to any target class.**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/papers/TIP2024-CPI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+[**CPI-Parser: Integrating Causal Properties Into Multiple Human Parsing.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704987) \\
+X. Wang, X. Chen, **Lianli Gao**, J. Song, H. T. Shen. \\
+_IEEE Trans. Image Process._ (**TIP**), 33:5771-5782, 2024\\
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704987"> <strong>Paper</strong></a>
+\|
+<a href="https://github.com/HAG-uestc/CPI-Parser"><strong>Code</strong></a> 
+
+**Proposing a Causal-based method for Human Parsing tasks.**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
+ **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
+_ArXiv_ (****), 2024\\
+ <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
+
+
+**Making balanced and informative predicate prediction for SGG.**
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/4.png' alt="sym" width="100%"></div></div>
@@ -177,24 +205,6 @@ In _International Conference on Machine Learning_ (**ICML**), pages 23103–2312
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection.**](https://arxiv.org/pdf/2311.01755.pdf)  \\
-T. He, **Lianli Gao**, J. Song, and Y. Li. \\
-_IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
-<a href="https://arxiv.org/pdf/2311.01755.pdf"><strong>Paper</strong></a>
-\|
-<a href="https://lianligao,github.io/"><strong>Code</strong></a>
-
-**Build a Unified Transformer-based Framework for SGG and HOI.**
-
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -226,6 +236,22 @@ In _IEEE/CVF International Conference on Computer Vision_ (**ICCV**), pages 1124
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection.**](https://arxiv.org/pdf/2311.01755.pdf)  \\
+T. He, **Lianli Gao**, J. Song, and Y. Li. \\
+_IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
+<a href="https://arxiv.org/pdf/2311.01755.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://lianligao,github.io/"><strong>Code</strong></a>
+
+**Build a Unified Transformer-based Framework for SGG and HOI.**
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/papers/8.png' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -242,22 +268,36 @@ In _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM M
 </div>
 
 
-
+- `TCSVT 2024` [Ump: Unified Modality-Aware Prompt Tuning for Text-Video Retrieval.]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599510](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599510)) H. Zhang, P Zeng, **Lianli Gao**, J. Song, and H. Shen. _IEEE Trans. Circuits Syst. Video Technol.,_ 34(11):11954 - 11964, 2024. [Code](https://github.com/zchoi/UMP_TVR)
+- `TCSVT 2024` [Dual-Branch Hybrid Learning Network for Unbiased Scene Graph Generation.]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10189863](https://arxiv.org/pdf/2207.07913)) C. Zheng, **Lianli Gao**, X. Lyu, P Zeng, A Saddik, and H. Shen. _IEEE Trans. Circuits Syst. Video Technol.,_ 34(3):1743 - 1756, 2024. [Code](https://github.com/aa200647963/SGG-DHL/)
+- `TMM 2024` [Exploring Spatial Frequency Information for Enhanced Video Prediction Quality.]([https://ieeexplore.ieee.org/abstract/document/10487871](https://ieeexplore.ieee.org/abstract/document/10487871)) J. Lai, L. Gan, J. Zhu, H. Liu, and **Lianli Gao**. _IEEE Trans. Multim.,_ 26:8955 - 8968, 2024. [Code](https://github.com/LintureGrant2023/SDFNet)
+- `AAAI 2024` [F³-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis.]([https://ojs.aaai.org/index.php/AAAI/article/download/28300/28590](https://ojs.aaai.org/index.php/AAAI/article/download/28300/28590)) S. Su, J. Liu, **Lianli Gao**, and J Song. _Proceedings of the AAAI Conference on Artificial Intelligence,_ 38(5), 4961 - 4969, 2024. [Code](https://lianligao.github.io/)
+- `NeurIPs 2023` [Prototype-based Aleatoric Uncertainty Quantification for Cross-modal Retrieval.]([https://proceedings.neurips.cc/paper_files/paper/2023/file/4d893f766ab60e5337659b9e71883af4-Paper-Conference.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/4d893f766ab60e5337659b9e71883af4-Paper-Conference.pdf)) L. Hao, J. Song, **Lianli Gao**, X. Zhu, and H. Shen. _Advances in Neural Information Processing Systems, NeurIPS,_ 2023. [Code](https://github.com/leolee99/PAU)
+- `ICCV 2023` [DETA: denoised task adaptation for few-shot learning.](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_DETA_Denoised_Task_Adaptation_for_Few-Shot_Learning_ICCV_2023_paper.pdf) J. Zhang, **Lianli Gao**, X. Luo, H. Shen, and J. Song. _IEEE/CVF International Conference on Computer Vision, ICCV,_ pages 11507–11517, 2023. [Code](https://github.com/JimZAI/DETA)
+- `TIP 2023` [Toward a Unified Transformer-Based Framework for Scene Graph Generation and Human-Object Interaction Detection.]([https://ieeexplore.ieee.org/document/10315051](https://ieeexplore.ieee.org/document/10315051)) T. He, **Lianli Gao**, J. Song, YF. Li. _IEEE Trans. Image Process.,_ 32:6274 - 6288, 2023. [Code](https://github.com/Koorye/DePT)
+- `TIP 2023` [Revisiting multi-codebook quantization.]([https://ieeexplore.ieee.org/document/10087307](https://ieeexplore.ieee.org/document/10087307)) X. Zhu, J. Song, **Lianli Gao**, X. Gu, HT. Shen
+. _IEEE Trans. Image Process.,_ 32:2399 - 2412, 2023. [Code](https://github.com/DeepMCQ/DeepQ)
 - `TIP 2023` [From global to local: Multi-scale out-of-distribution detection.]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654](https://arxiv.org/pdf/2308.10239.pdf)) J. Zhang, **Lianli Gao**, B. Hao, H. Huang, J. Song, and H. Shen. _IEEE Trans. Image Process.,_ 32:6115–6128, 2023. [Code](https://github.com/Koorye/DePT)
-- `ICCV 2023` [DETA: denoised task adaptation for few-shot learning.](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_DETA_Denoised_Task_Adaptation_for_Few-Shot_Learning_ICCV_2023_paper.pdf) J. Zhang, **Lianli Gao**, X. Luo, H. Shen, and J. Song. In _IEEE/CVF International Conference on Computer Vision, ICCV,_ pages 11507–11517, 2023. [Code](https://github.com/JimZAI/DETA)
+- `TNNLS 2023` [Overcoming Data Deficiency for Multi-Person Pose Estimation.]([https://arxiv.org/pdf/2211.09469](https://arxiv.org/pdf/2211.09469)) Y. Dai, X. Wang, **Lianli Gao**, J. Song, F. Zheng, HT. Shen. _IEEE Trans. Neural Networks Learn. Syst._, 35(8):10857 - 10868, 2023. [Code](https://lianligao.github.io/)
+- `TMM 2023` [Resparser: Fully convolutional multiple human parsing with representative sets.]([https://arxiv.org/pdf/2211.09469](https://arxiv.org/pdf/2211.09469)) Y Dai, X Chen, X Wang, M Pang, **Lianli Gao**, HT Shen. _IEEE Trans. Neural Networks Learn. Syst._, 26(5), 1384 - 1394, 2023. [Code](https://lianligao.github.io/)
+- `TMM 2023` [Memory-based augmentation network for video captioning.]([https://ieeexplore.ieee.org/abstract/document/10487871](https://ieeexplore.ieee.org/abstract/document/10487871)) S. Jing, H. Zhang, P. Zeng, **Lianli Gao**, J. Song, HT. Shen. _IEEE Trans. Multim.,_ 26:2367 - 2379, 2023. [Code](https://lianligao.github.io/)
+- `TMM 2023` [DMH-CL: Dynamic Model Hardness Based Curriculum Learning for Complex Pose Estimation.]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227611](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227611)) Y. Dai, B. Chen, **Lianli Gao**, J. Song, HT. Shen. _IEEE Trans. Multim.,_ 26:2367 - 2379, 2023. [Code](https://lianligao.github.io/)
+- `TMM 2023` [Utilizing greedy nature for multimodal conditional image synthesis in transformers.]([https://ieeexplore.ieee.org/abstract/document/10184483](https://ieeexplore.ieee.org/abstract/document/10184483)) S. Su, J. Zhu, **Lianli Gao**, J. Song. _IEEE Trans. Multim.,_ 26:2354 - 2366, 2023. [Code](https://lianligao.github.io/)
+- `TCSVT 2023` [Allowing Supervision in Unsupervised Deformable-Instances Image-to-Image Translation.]([https://ieeexplore.ieee.org/abstract/document/10363214/](https://ieeexplore.ieee.org/abstract/document/10363214/)) Y. Liu, S. Su, J. Zhu, F. Zheng, **Lianli Gao**, J. Song. _IEEE Trans. Circuits Syst. Video Technol.,_ 34(3):1743 - 1756, 2023. [Code](https://lianligao.github.io/)
+- `TCSVT 2023` [SPT: Spatial pyramid transformer for image captioning.]([https://ieeexplore.ieee.org/abstract/document/10363214/](https://ieeexplore.ieee.org/abstract/document/10363214/)) H. Zhang, P. Zeng, **Lianli Gao**, X. Lyu, J. Song, HT. Shen. _IEEE Trans. Circuits Syst. Video Technol.,_ 34(6):4829 - 4842, 2023. [Code](https://lianligao.github.io/)
+- `TCSVT 2023` [Complementarity-aware space learning for video-text retrieval.]([\https://ieeexplore.ieee.org/abstract/document/10012341](https://ieeexplore.ieee.org/abstract/document/10012341)) J. Zhu, P. Zeng, **Lianli Gao**, G. Li, D. Liao, J Song. _IEEE Trans. Circuits Syst. Video Technol.,_ 33(8), 4362-4374, 2023. [Code](https://lianligao.github.io/)
 - `TIP 2022` [Hierarchical representation network with auxiliary tasks for video captioning and video question answering.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9592722) **Lianli Gao**, Y. Lei, P. Zeng, J. Song, M. Wang, and H. T. Shen. _IEEE Trans. Image Process._, 31:202–215, 2022. [Code](https://github.com/riesling00/HRNAT)
 - `TIP 2022` [Video question answering with prior knowledge and object-sensitive learning.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9882977) P. Zeng, H. Zhang, **Lianli Gao**, J. Song, and H. T. Shen. _IEEE Trans. Image Process.,_ 31:5936–5948, 2022. [Code](https://github.com/zchoi/PKOL)
 - `ECCV 2022` [State-aware compositional learning toward unbiased training for scene graph generation.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9969654) T. He, **Lianli Gao**, J. Song, and Y. Li. _IEEE Trans. Image Process.,_ 32:43–56, 2023. [Code](https://lianligao.github.io/)
-- `CVPR 2022` [Practical evaluation of adversarial robustness via adaptive auto attack.](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Practical_Evaluation_of_Adversarial_Robustness_via_Adaptive_Auto_Attack_CVPR_2022_paper.pdf) Y. Liu, Y. Cheng, **Lianli Gao**, X. Liu, Q. Zhang, and J. Song. In _IEEE/CVF Conference on Computer Vision and PatternRecognition, CVPR,_ pages 15084–15093, 2022. [Code](https://github.com/liuye6666/adaptive)
-- `CVPR 2022` [Unified multivariate gaussian mixture for efficient neural image compression.](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Unified_Multivariate_Gaussian_Mixture_for_Efficient_Neural_Image_Compression_CVPR_2022_paper.pdf) X. Zhu, J. Song, **Lianli Gao**, F. Zheng, and H. T. Shen. In _IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR_, pages 17591–17600, 2022. [Code](https://github.com/xiaosu-zhu/McQuic)
-- `CVPR 2022` [Fine-grained predicates learning for scene graph generation.](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) X. Lyu, **Lianli Gao**, Y. Guo, Z. Zhao, H. Huang, H. T. Shen, and J. Song. In _IEEE/CVF Conference on Computer Vision and Pattern
-Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLyu/FGPL)
-- `ECCV 2022` [Towards open-vocabulary scene graph generation with prompt-based finetuning.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880055.pdf) T. He, **Lianli Gao**, J. Song, and Y. Li.  In _IEEE/CVF International Conference on Computer Vision, ICCV,_ pages 56–73, 2022. [Code](https://lianligao.github.io/)
-- `ECCV 2022` [Frequency domain model augmentation for adversarial attack.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640543.pdf) Long, Q. Zhang, B. Zeng, **Lianli Gao**, X. Liu, J. Zhang, and J. Song. In _IEEE/CVF International Conference on Computer Vision, ICCV,_ pages 549–566, 2022. [Code](https://github.com/yuyang-long/SSA)
-- `ICLR 2022` [Beyond imagenet attack: Towards crafting adversarial examples for black-box domains.](https://arxiv.org/pdf/2201.11528.pdf) Q. Zhang, X. Li, Y. Chen, J. Song, **Lianli Gao**, Y. He, and H. Xue.  In _The Tenth International Conference on Learning Representations, ICLR,_ 2022. [Code](https://github.com/Alibaba-AAIG/Beyond-ImageNet-Attack)
-- `NeurIPS 2022` [A differentiable semantic metric approximation in probabilistic embedding for cross-modal retrieval.](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) H. Li, J. Song, **Lianli Gao**, P. Zeng, H. Zhang, and G. Li.  In _Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems, NeurIPS,_ 2022. [Code](https://github.com/VL-Group/2022-NeurIPS-DAA)
-- `NeurIPS 2022` [Natural color fool: Towards boosting black-box unrestricted attacks.](https://arxiv.org/pdf/2210.02041.pdf) S. Yuan, Q. Zhang, **Lianli Gao**, Y. Cheng, and J. Song. In _Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems, NeurIPS,_ 2022. [Code](https://github.com/VL-Group/Natural-Color-Fool)
-- `NeurIPS 2022` [A lower bound of hash codes’ performance.](https://arxiv.org/pdf/2210.05899.pdf) X. Zhu, J. Song, Y. Lei, **Lianli Gao**, and H. Shen. In _Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems, NeurIPS,_ 2022. [Code](https://github.com/vl-group/lbhash)
+- `CVPR 2022` [Practical evaluation of adversarial robustness via adaptive auto attack.](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Practical_Evaluation_of_Adversarial_Robustness_via_Adaptive_Auto_Attack_CVPR_2022_paper.pdf) Y. Liu, Y. Cheng, **Lianli Gao**, X. Liu, Q. Zhang, and J. Song. _IEEE/CVF Conference on Computer Vision and PatternRecognition, CVPR,_ pages 15084–15093, 2022. [Code](https://github.com/liuye6666/adaptive)
+- `CVPR 2022` [Unified multivariate gaussian mixture for efficient neural image compression.](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Unified_Multivariate_Gaussian_Mixture_for_Efficient_Neural_Image_Compression_CVPR_2022_paper.pdf) X. Zhu, J. Song, **Lianli Gao**, F. Zheng, and H. T. Shen. _IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR_, pages 17591–17600, 2022. [Code](https://github.com/xiaosu-zhu/McQuic)
+- `CVPR 2022` [Fine-grained predicates learning for scene graph generation.](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf) X. Lyu, **Lianli Gao**, Y. Guo, Z. Zhao, H. Huang, H. T. Shen, and J. Song. _IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLyu/FGPL)
+- `ECCV 2022` [Towards open-vocabulary scene graph generation with prompt-based finetuning.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880055.pdf) T. He, **Lianli Gao**, J. Song, and Y. Li.  _IEEE/CVF International Conference on Computer Vision, ICCV,_ pages 56–73, 2022. [Code](https://lianligao.github.io/)
+- `ECCV 2022` [Frequency domain model augmentation for adversarial attack.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640543.pdf) Long, Q. Zhang, B. Zeng, **Lianli Gao**, X. Liu, J. Zhang, and J. Song. _IEEE/CVF International Conference on Computer Vision, ICCV,_ pages 549–566, 2022. [Code](https://github.com/yuyang-long/SSA)
+- `ICLR 2022` [Beyond imagenet attack: Towards crafting adversarial examples for black-box domains.](https://arxiv.org/pdf/2201.11528.pdf) Q. Zhang, X. Li, Y. Chen, J. Song, **Lianli Gao**, Y. He, and H. Xue.  _The Tenth International Conference on Learning Representations, ICLR,_ 2022. [Code](https://github.com/Alibaba-AAIG/Beyond-ImageNet-Attack)
+- `NeurIPS 2022` [A differentiable semantic metric approximation in probabilistic embedding for cross-modal retrieval.](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf) H. Li, J. Song, **Lianli Gao**, P. Zeng, H. Zhang, and G. Li.  _Advances in Neural Information Processing Systems, NeurIPS,_ 2022. [Code](https://github.com/VL-Group/2022-NeurIPS-DAA)
+- `NeurIPS 2022` [Natural color fool: Towards boosting black-box unrestricted attacks.](https://arxiv.org/pdf/2210.02041.pdf) S. Yuan, Q. Zhang, **Lianli Gao**, Y. Cheng, and J. Song. _Advances in Neural Information Processing Systems, NeurIPS,_ 2022. [Code](https://github.com/VL-Group/Natural-Color-Fool)
+- `NeurIPS 2022` [A lower bound of hash codes’ performance.](https://arxiv.org/pdf/2210.05899.pdf) X. Zhu, J. Song, Y. Lei, **Lianli Gao**, and H. Shen. _Advances in Neural Information Processing Systems, NeurIPS,_ 2022. [Code](https://github.com/vl-group/lbhash)
 - `TPAMI 2020` [Hierarchical lstms with adaptive attention for visual captioning.](https://arxiv.org/pdf/1812.11004.pdf) **Lianli Gao**, X. Li, J. Song, and H. T. Shen. _IEEE Trans. Pattern Anal. Mach. Intell.,_ 42(5):1112–1131, 2020. [Code](https://github.com/lixiangpengcs/Spatial-Temporal-Adaptive-Attention-for-Video-Captioning)
 <!-- under review -->
 
@@ -304,7 +344,7 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
     _Thesis: Towards Unbiased Scene Graph Generation: Techniques and Applications._
   - Xuanhang Wang (_Jun. 2019 - Jul. 2023_)
   
-    _Thesis: Visual semantic understanding based visual dialogue._	
+    _Thesis: Visual semantic understanding based visual dialogue._  
   - Pengpeng Zeng (_Jun. 2019 - Jul. 2023_)
   
     _Thesis: Research on Synergizing Vision and Text for Semantic Consistency Method._
@@ -312,8 +352,8 @@ Recognition, CVPR,_ pages 19445–19453, 2022. [Code](https://github.com/XinyuLy
   
     _Thesis: Research on Visual Reasoning algorithm that integrates natural language analysis._
   - Yuyu Guo (_Jun. 2018 - Jul. 2022_)
-	
-	_Thesis: Visual Relationship Generation Based on Scene Understanding._
+  
+  _Thesis: Visual Relationship Generation Based on Scene Understanding._
 
 - **Current and former M.Sc. students:**
   - Hilali Sara Rita,Ke Liu, Mengqi Li, Shihan Wu, Fuwei Liu, and Lu Zhu (Enrolled in _Sep. 2022_)
