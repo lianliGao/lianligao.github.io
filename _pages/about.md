@@ -32,9 +32,11 @@ Her Teaching covers a wide range of courses at different levels for both interna
   
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.12*: &nbsp; One paper is accepted by AAAI 2025!
 - *2024.10*: &nbsp; Two papers accepted by NeurIPS 2024!
 - *2024.09*: &nbsp; appointed as an Associate Editor for IEEE Transactions on Multimedia 2024!
 - *2024.08*: &nbsp; Best Paper Candidate of ICME 2024!
+- *2024.07*: &nbsp; Two papers were accepted by ACM MM 2024!
 - *2024.02*: &nbsp; Two papers were accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)!
 - *2024.01*: &nbsp; Four papers were accepted by IEEE Transactions on Multimedia (TMM 2024)!
 - *2023.10*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2023)!
@@ -327,7 +329,7 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
   - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Academic Services:**
     *To date:* ICCV Area Chair, CVPR Area Chair, ECCV Area Chair, WACV Area Chair, AAAI Area Chair, ACM MM Area Chair, etc.
-  - *2025:* Senior program committee of AAAI 2025.
+  - *2025:* Senior program committee of AAAI 2025, ICME Area Chair, AAAI Area Chair, CVPR Area Chair, ICCV Area Chair.
   - *2024:* Associate Editor for IEEE Transactions on Multimedia 2024!
   - *2024:* ECCV Area Chair, WACV Area Chair, program committee of the IJCAI 24 track on AI and Social Good.
   - *2023:* WACV Area Chair
