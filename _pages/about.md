@@ -58,6 +58,12 @@ Here are some **selective publications**. For **full publications**, please visi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[**GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark.**](https://arxiv.org/pdf/2412.09997) \\
+S. Su, X. Cai, **Lianli Gao**, P. Zeng, Q. Du, M. Li, H. T. Shen, and J. Song.\\
+< a href="https://arxiv.org/pdf/2309.07439.pdf"><strong>Paper</strong></a >
+\|
+< a href="https://gt23d-bench.github.io/"><strong>Project</strong></a >
+
 [**Dept: Decoupled prompt tuning.**](https://arxiv.org/pdf/2309.07439.pdf) \\
 J. Zhang, S. Wu, **Lianli Gao**, H. T. Shen, and J. Song.\\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2024\\
