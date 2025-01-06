@@ -32,9 +32,9 @@ Her Teaching covers a wide range of courses at different levels for both interna
   
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025.1*: &nbsp; One Best Paper Award from Sichuan Province Computer Federation 2025! congratulations to Ji Zhang!!
-- *2025.1*: &nbsp; One Best Paper Honorable Mention Award from Sichuan Province Computer Federation 2025! congratulations Kaipeng Fang!!
-- *2025.1*: &nbsp; One paper is accepted by IEEE TMM 2025! congratulations to LianQiang Gan!!
+- *2025.01*: &nbsp; One Best Paper Award from Sichuan Province Computer Federation 2025! congratulations to Ji Zhang!!
+- *2025.01*: &nbsp; One Best Paper Honorable Mention Award from Sichuan Province Computer Federation 2025! congratulations Kaipeng Fang!!
+- *2025.01*: &nbsp; One paper is accepted by IEEE TMM 2025! congratulations to LianQiang Gan!!
 - *2024.12*: &nbsp; One paper is accepted by AAAI 2025!
 - *2024.11*: &nbsp; First Place Award in the Integrated Media Content Creator category, China Mobile AI Marathon Innovation! Congratulations to our AIGC Group!!
 - *2024.10*: &nbsp; Two papers accepted by NeurIPS 2024!
