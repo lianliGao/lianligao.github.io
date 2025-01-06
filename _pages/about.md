@@ -32,6 +32,8 @@ Her Teaching covers a wide range of courses at different levels for both interna
   
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.1*: &nbsp; One Best Paper Award and One Best Paper Honorable Mention Award from Sichuan Province Computer Federation 2025! congratulations to Ji Zhang and Kaipeng Fang!!
+- *2025.1*: &nbsp; One paper is accepted by IEEE TMM 2025! congratulations to LianQiang Gan!!
 - *2024.12*: &nbsp; One paper is accepted by AAAI 2025!
 - *2024.10*: &nbsp; Two papers accepted by NeurIPS 2024!
 - *2024.09*: &nbsp; appointed as an Associate Editor for IEEE Transactions on Multimedia 2024!
