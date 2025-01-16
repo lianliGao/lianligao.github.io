@@ -32,6 +32,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
   
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.01*: &nbsp; One Paper accepted by IJCV 2025!!! A good start on 2025!!
 - *2025.01*: &nbsp; One Best Paper Award from Sichuan Province Computer Federation 2025! congratulations to Ji Zhang!!
 - *2025.01*: &nbsp; One Best Paper Honorable Mention Award from Sichuan Province Computer Federation 2025! congratulations Kaipeng Fang!!
 - *2025.01*: &nbsp; One paper is accepted by IEEE TMM 2025! congratulations to LianQiang Gan!!
