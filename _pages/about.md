@@ -65,6 +65,7 @@ S. Su, X. Cai, **Lianli Gao**, P. Zeng, Q. Du, M. Li, H. T. Shen, and J. Song.\\
 \|
 <a href="https://gt23d-bench.github.io/"><strong>Project</strong></a>
 
+**A Dataset for general Text-to-3D Generation.**
 </div>
 </div>
 
