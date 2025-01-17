@@ -61,7 +61,7 @@ Here are some **selective publications**. For **full publications**, please visi
 
 [**GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark.**](https://arxiv.org/pdf/2412.09997) \\
 S. Su, X. Cai, **Lianli Gao**, P. Zeng, Q. Du, M. Li, H. T. Shen, and J. Song.\\
-< a href="https://arxiv.org/pdf/2309.07439.pdf"><strong>Paper</strong></a >
+<a href="https://arxiv.org/pdf/2309.07439.pdf"><strong>Paper</strong></a>
 \|
 < a href="https://gt23d-bench.github.io/"><strong>Project</strong></a>
 
