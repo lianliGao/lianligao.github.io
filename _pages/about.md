@@ -34,7 +34,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- -
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
-- *2025.01*: &nbsp; One Paper accepted by IEEE TIP 2025 ! congratulations to Xingyu Lv!!
+- *2025.01*: &nbsp; One Paper accepted by IEEE TIP 2025! congratulations to Xingyu Lv!!
 - *2025.01*: &nbsp; One Paper accepted by IJCV 2025!!! A good start on 2025!! congratulations to Xingyu Lv!!
 - *2025.01*: &nbsp; One Best Paper Award from Sichuan Province Computer Federation 2025! congratulations to Ji Zhang!!
 - *2025.01*: &nbsp; One Best Paper Honorable Mention Award from Sichuan Province Computer Federation 2025! congratulations Kaipeng Fang!!
