@@ -60,6 +60,24 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/PCG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Policy Contrastive Decoding for Robotic Foundation Models.**](https://arxiv.org/abs/2505.13255) \\
+S. Wu, J. Zhang, X. Luo,  J. Xie, J. Song,  and H. T. Shen,  **Lianli Gao**\\
+<a href="https://arxiv.org/pdf/2309.07439.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://koorye.github.io/proj/PCD/"><strong>Project</strong></a>
+
+** a novel Policy Contrastive Decoding for Robotic Foundation Models .**
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Text-to-3D Benchmark</div><img src='images/papers/T23D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
