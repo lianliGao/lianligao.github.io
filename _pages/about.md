@@ -60,12 +60,27 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InSpire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning.**](https://arxiv.org/abs/2505.13888) \\
+J. Zhang, S. Wu, X. Luo, H. Wu, **Lianli Gao**,  H. T. Shen, J. Song\\
+<a href="https://arxiv.org/pdf/2505.13888"><strong>Paper</strong></a>
+\|
+<a href="https://koorye.github.io/proj/Inspire/"><strong>Project</strong></a>
+
+** we propose Intrinsic Spatial Reasoning (InSpire), a simple yet effective approach that mitigates the adverse effects of spurious correlations by boosting the spatial reasoning ability of VLAs.**
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/PCD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Policy Contrastive Decoding for Robotic Foundation Models.**](https://arxiv.org/abs/2505.13255) \\
 S. Wu, J. Zhang, X. Luo,  J. Xie, J. Song,  and H. T. Shen,  **Lianli Gao**\\
-<a href="https://arxiv.org/pdf/2309.07439.pdf"><strong>Paper</strong></a>
+<a href="https://arxiv.org/abs/2505.13255"><strong>Paper</strong></a>
 \|
 <a href="https://koorye.github.io/proj/PCD/"><strong>Project</strong></a>
 
