@@ -34,7 +34,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- -
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
-
+- *2025.06*: &nbsp; One Paper accepted by TPAMI 2025 on Reliable Few-shot Learning!  congratulations to Ji Zhang!!
 - *2025.05*: &nbsp; One Paper accepted by ACL 2025! congratulations to Haonan Zhang!!
 - *2025.03*: &nbsp; One Paper accepted by CVPR 2025! congratulations to Shihan Wu and Ji Zhang!!
 - *2025.02*: &nbsp; One Paper accepted by IEEE TIP 2025! congratulations to Xingyu Lv!!
