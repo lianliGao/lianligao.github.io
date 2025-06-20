@@ -369,6 +369,7 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
 
 # 🎖 Honors and Services
 - **Research Honors:**
+  - *2024* Best paper Candidate of ICME 2024.
   - *2023, 2024* Rising Star of Science Award.
   - *2023*, *2020*, *2018* UESTC Research Excellence Award.
   - *2023*, *2018* UESTC Excellent Faculty Award for Teaching Excellence.
