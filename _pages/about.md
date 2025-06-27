@@ -108,7 +108,7 @@ S. Su, X. Cai, **Lianli Gao**, P. Zeng, Q. Du, M. Li, H. T. Shen, and J. Song.\\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Text-to-3D Benchmark</div><img src='images/papers/T23D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Reliable Few-short Learning</div><img src='images/papers/DETA++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Reliable Few-shot Learning under Dual Noises.**](https://arxiv.org/abs/2506.16330#content) \\
