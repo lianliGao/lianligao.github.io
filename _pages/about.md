@@ -116,7 +116,7 @@ J. Zhang, J. Song, **Lianli Gao**, N. Sebe, and H. T. Shen.\\
 _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (**TPAMI**), 2025\\
 <a href="https://arxiv.org/abs/2506.16330#content"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/JimZAI/DETA-plus/"><strong>Project</strong></a>
+<a href="https://github.com/JimZAI/DETA-plus/"><strong>Code</strong></a>
 
 **The problem we address is: With limited support samples available, i) the adverse effect of the dual noises can be severely amplified during task adaptation, and ii) the adapted model can produce unreliable predictions on query samples in the presence of the dual noises.**
 </div>
