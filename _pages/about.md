@@ -34,6 +34,9 @@ Her Teaching covers a wide range of courses at different levels for both interna
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- -
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
+- *2025.11*: &nbsp; We release [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation]([https://evla-survey.github.io/](https://github.com/FlagOpen/RoboCOIN)), a comprehensive multi-embodiment bimanual manipulation dataset with over 180,000 demonstrations collected from 15 distinct robotic platforms!!
+- *2025.10*: &nbsp; We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models!!
+- *2025.09*: &nbsp; three Papers accepted by NeurIPS 2025 on AI Safety!  congratulations to Chenhang Cui, Beitao Chen, Shengming Yuan!!
 - *2025.07*: &nbsp; One Paper accepted by TIP 2025 on Text-Video Retrieval!  congratulations to Haonan Zhang!!
 - *2025.06*: &nbsp; One Paper accepted by TPAMI 2025 on Reliable Few-shot Learning!  congratulations to Ji Zhang!!
 - *2025.05*: &nbsp; One Paper accepted by ACL 2025! congratulations to Haonan Zhang!!
