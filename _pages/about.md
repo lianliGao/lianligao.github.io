@@ -34,6 +34,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- -
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
+- *2025.12*: &nbsp; Served as Area Chair of CVPR2026!!
 - *2025.11*: &nbsp; We release [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://github.com/FlagOpen/RoboCOIN), a comprehensive multi-embodiment bimanual manipulation dataset with over 180,000 demonstrations collected from 15 distinct robotic platforms!!
 
 - *2025.10*: &nbsp; We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models!!
