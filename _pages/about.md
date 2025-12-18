@@ -34,7 +34,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- -
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
-- *2025.11*: &nbsp; We release [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://evla-survey.github.io/](https://github.com/FlagOpen/RoboCOIN), a comprehensive multi-embodiment bimanual manipulation dataset with over 180,000 demonstrations collected from 15 distinct robotic platforms!!
+- *2025.11*: &nbsp; We release [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://evla-survey.github.io/)(https://github.com/FlagOpen/RoboCOIN), a comprehensive multi-embodiment bimanual manipulation dataset with over 180,000 demonstrations collected from 15 distinct robotic platforms!!
 - *2025.10*: &nbsp; We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models!!
 - *2025.09*: &nbsp; three Papers accepted by NeurIPS 2025 on AI Safety!  congratulations to Chenhang Cui, Beitao Chen, Shengming Yuan!!
 - *2025.07*: &nbsp; One Paper accepted by TIP 2025 on Text-Video Retrieval!  congratulations to Haonan Zhang!!
@@ -69,7 +69,7 @@ Here are some **selective publications**. For **full publications**, please visi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI-Dataset </div><img src='images/papers/RobotCoin.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation.**](https://arxiv.org/abs/2511.17441) \\
+[**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for Integrated Manipulation.**](https://arxiv.org/abs/2511.17441) \\
 S. Wu, X. Liu, S. Xie, P. Wang, X. Li, B. Yang, Z. Li, K. Zhu, H. Wu, Y. Liu, Z. Long, Y. Wang, C. Liu, D. Wang, Z. Ni, X. Yang, Y. Liu, R. Feng, R. Xu, L. Zhang, D. Huang, C. Jin, A. Yin, X. Wang, Z. Sun, J. Zhao, M. Du, M. Cao, X. Chen, H. Cheng, X. Zhang, Y. Fu, N. Chen, C. Chi, S. Chen, H. Lyu, X. Hao, Y. Wang, B. Lei, D. Liu, X. Yang, Y. Jiao, T. Pan, Y. Zhang, S. Wang, Z. Zhang, X. Liu, J. Zhang, C. Meng, Z. Zhang, J. Gao, S. Wang, X. Leng, Z. Xie, Z. Zhou, P. Huang, W. Yang, Y. Guo, Y. Zhu, S. Zheng, H. Cheng, X. Ding, Y. Yue, H. Wang, C. Chen, J. Pang, Y. Qian, H. Geng, **Lianli Gao**, H. Li, B. Fang, G. Huang, Y. Yang, H. Dong, H. Wang, H. Zhao, Y. Mu, D. Hu, H. Zhao, T. Huang, S. Zhang, Y. Lin, Z. Wang, G. Yao\\
 <a href="https://arxiv.org/abs/2511.17441"><strong>Paper</strong></a>
 \|
