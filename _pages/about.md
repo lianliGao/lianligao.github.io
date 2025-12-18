@@ -80,6 +80,19 @@ S. Wu, X. Liu, S. Xie, P. Wang, X. Li, B. Yang, Z. Li, K. Zhu, H. Wu, Y. Liu, Z.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI-Dataset </div><img src='images/papers/TOC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A Survey on Efficient Vision-Language-Action Models.**](https://arxiv.org/abs/2510.24795) \\
+Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H. T. Shen\\
+<a href="https://arxiv.org/abs/2510.24795"><strong>Paper</strong></a>
+\|
+<a href="https://evla-survey.github.io/"><strong>Project</strong></a>
+
+**The first comprehensive review of Efficient Vision-Language-Action models (Efficient VLAs) across the entire data-model-training process**
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InSpire.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
