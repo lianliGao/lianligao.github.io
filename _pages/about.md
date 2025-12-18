@@ -80,7 +80,7 @@ S. Wu, X. Liu, S. Xie, P. Wang, X. Li, B. Yang, Z. Li, K. Zhu, H. Wu, Y. Liu, Z.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI-Dataset </div><img src='images/papers/TOC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI-VLA Survey </div><img src='images/papers/TOC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Survey on Efficient Vision-Language-Action Models.**](https://arxiv.org/abs/2510.24795) \\
@@ -133,8 +133,7 @@ B. Chen, X. Lyu, S. Yuan, J. Song, H. T. Shen, **Lianli Gao** .\\
 \|
 <a href="https://github.com/BT-C/SafePTR/"><strong>Project</strong></a>
 
-**we present an comprehensive analysis of where, how and which harmful multimodal tokens bypass safeguards in MLLMs and propose Safe Prune-then-Restore (SafePTR), an
-training-free defense framework that selectively prunes harmful tokens at vulnerable layers while restoring benign features at subsequent layer**
+**we present an comprehensive analysis of where, how and which harmful multimodal tokens bypass safeguards in MLLMs and propose Safe Prune-then-Restore (SafePTR), an training-free defense framework that selectively prunes harmful tokens at vulnerable layers while restoring benign features at subsequent layer**
 </div>
 </div>
 
