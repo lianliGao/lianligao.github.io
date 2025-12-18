@@ -123,6 +123,36 @@ S. Wu, J. Zhang, X. Luo,  J. Xie, J. Song,  and H. T. Shen,  **Lianli Gao**\\
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 AI Safety</div><img src='images/papers/safePTR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism.**](https://openreview.net/pdf?id=MNSiBGNAvx) \\
+B. Chen, X. Lyu, S. Yuan, J. Song, H. T. Shen, **Lianli Gao** .\\
+39th Conference on Neural Information Processing Systems (**NeurIPS**), 2025\\
+<a href="https://openreview.net/pdf?id=MNSiBGNAvx"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/BT-C/SafePTR/"><strong>Project</strong></a>
+
+**we present an comprehensive analysis of where, how and which harmful multimodal tokens bypass safeguards in MLLMs and propose Safe Prune-then-Restore (SafePTR), an
+training-free defense framework that selectively prunes harmful tokens at vulnerable layers while restoring benign features at subsequent layer**
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 AI Safety</div><img src='images/papers/FlexAC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models.**](https://openreview.net/pdf?id=RbGUML7YK6) \\
+S. Yuan, X. Lyu, S. Wang, B. Chen, J. Song, **Lianli Gao** .\\
+39th Conference on Neural Information Processing Systems (**NeurIPS**), 2025\\
+<a href="https://openreview.net/pdf?id=RbGUML7YK6"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/ylhz/FlexAC"><strong>Project</strong></a>
+
+**we introduce Flexible Association Control (FlexAC), a lightweight and training-free framework for modulating associative behavior in MLLMs**
+</div>
+</div>
+
 
 
 
