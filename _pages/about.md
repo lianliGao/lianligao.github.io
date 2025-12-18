@@ -169,7 +169,7 @@ S. Su, X. Cai, **Lianli Gao**, P. Zeng, Q. Du, M. Li, H. T. Shen, and J. Song.\\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> TPAMI 2025</div><img src='images/papers/DETA++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Few-shot Learning</div><img src='images/papers/DETA++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Reliable Few-shot Learning under Dual Noises.**](https://arxiv.org/abs/2506.16330#content) \\
@@ -187,7 +187,7 @@ _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (**TPAMI**), 20
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> prompt Learning</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**Dept: Decoupled prompt tuning.**](https://arxiv.org/pdf/2309.07439.pdf) \\
@@ -203,7 +203,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 202
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">cross-domain retrieval</div><img src='images/papers/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Prog: Prompting-to simulate generalized knowledge for universal cross-domain retrieval.**](https://arxiv.org/pdf/2312.12478.pdf) \\
@@ -219,7 +219,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 202
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Continual Learning-Benchmark</div><img src='images/papers/Nips2024-Coin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model.**](https://arxiv.org/abs/2403.08350) \\
@@ -234,7 +234,7 @@ _Advances in Neural Information Processing Systems 38: Annual Conference on Neur
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Safety</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
@@ -250,10 +250,10 @@ _Advances in Neural Information Processing Systems 38: Annual Conference on Neur
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024-GAKer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Safety</div><img src='images/papers/ECCV2024-GAKer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
-[**Any Target Can be Offense: Adversarial ExampleGeneration via Generalized Latent Infection.**](https://arxiv.org/pdf/2407.12292) \\
+[**Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection.**](https://arxiv.org/pdf/2407.12292) \\
 Y. Sun, S. Yuan, X. Wang, **Lianli Gao**, J. Song. \\
 _European Conference on Computer Vision_ (**ECCV**), 2024\\
 <a href="https://arxiv.org/pdf/2407.12292"> <strong>Paper</strong></a>
@@ -265,7 +265,7 @@ _European Conference on Computer Vision_ (**ECCV**), 2024\\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/papers/TIP2024-CPI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Understanding</div><img src='images/papers/TIP2024-CPI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 [**CPI-Parser: Integrating Causal Properties Into Multiple Human Parsing.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704987) \\
@@ -281,12 +281,12 @@ _IEEE Trans. Image Process._ (**TIP**), 33:5771-5782, 2024\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Understanding</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Informative scene graph generation via debiasing.**](https://arxiv.org/pdf/2308.05286.pdf) \\
  **Lianli Gao**, X. Lyu, Y. Guo, Y. Hu, Y.-F. Li, L. Xu, H. T. Shen, and J. Song.
-_ArXiv_ (****), 2024\\
+IJCV (****), 2024\\
  <a href="https://arxiv.org/pdf/2308.05286.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
@@ -298,7 +298,7 @@ _ArXiv_ (****), 2024\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Generative AI</div><img src='images/papers/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Label-guided generative adversarial network for realistic image synthesis.**](https://users.monash.edu/~yli/assets/pdf/img_syn_tpami2022.pdf) \\
@@ -314,7 +314,7 @@ _IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(3):3311–3328, 2023\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Understanding</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Adaptive fine-grained predicates learning for scene graph generation.**](https://arxiv.org/pdf/2207.04602.pdf) \\
@@ -328,7 +328,7 @@ _IEEE Trans. Pattern Anal. Mach. Intell._ (**TPAMI**), 45(11):13921–13940, 202
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/papers/5.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Few-short Learning</div><img src='images/papers/5.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A closer look at few-shot classification again.**](https://arxiv.org/pdf/2301.12246.pdf) \\
@@ -343,7 +343,7 @@ _International Conference on Machine Learning_ (**ICML**), pages 23103–23123, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Understanding</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Prototype-based Embedding Network for Scene Graph Generation.**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf) \\
@@ -359,7 +359,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR**), pag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/7.png' alt="sym" width="100%" height="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Understanding</div><img src='images/papers/7.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Part-aware transformer for generalizable person re-identification.**](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf) \\
@@ -374,7 +374,7 @@ _IEEE/CVF International Conference on Computer Vision_ (**ICCV**), pages 11246�
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Understanding</div><img src='images/papers/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Toward a unified transformer-based framework for scene graph generation and human-obfect interaction detection.**](https://arxiv.org/pdf/2311.01755.pdf)  \\
@@ -390,7 +390,7 @@ _IEEE Trans. Image Process._ (**TIP**), 32:6274–6288, 2023\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/papers/8.png' alt="sym" height="600" width="800"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Generative AI</div><img src='images/papers/8.png' alt="sym" height="600" width="800"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Moviefactory: Automatic movie creation from text using large generative models for language and images.**](https://arxiv.org/pdf/2306.07257.pdf) \\
