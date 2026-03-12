@@ -66,7 +66,7 @@ Her Teaching covers a wide range of courses at different levels for both interna
 # 📝 Publications 
 Here are some **selective publications**. For **full publications**, please visit my [Google Scholar](https://scholar.google.com/citations?user=zsm2dpYAAAAJ) and [DBLP](https://dblp.org/pid/123/9849.html).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI-Dataset </div><img src='images/papers/RobotCoin.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Robotic AI-Dataset </div><img src='images/papers/RobotCoin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for Integrated Manipulation.**](https://arxiv.org/abs/2511.17441) \\
@@ -80,7 +80,7 @@ S. Wu, X. Liu, S. Xie, P. Wang, X. Li, B. Yang, Z. Li, K. Zhu, H. Wu, Y. Liu, Z.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI-VLA Survey </div><img src='images/papers/TOC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Robotic AI-VLA Survey </div><img src='images/papers/TOC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Survey on Efficient Vision-Language-Action Models.**](https://arxiv.org/abs/2510.24795) \\
@@ -94,7 +94,7 @@ Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InspireF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Robotic AI </div><img src='images/papers/InspireF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning.**](https://arxiv.org/abs/2505.13888) \\
@@ -109,7 +109,7 @@ IEEE International Conference on Robotics & Automation (ICRA), 2026\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/shortcut.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Robotic AI </div><img src='images/papers/shortcut.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation.**](https://arxiv.org/pdf/2508.06426) \\
@@ -125,7 +125,7 @@ The Conference on Robot Learning (CoRL), 2026\\
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/PCD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Robotic AI </div><img src='images/papers/PCD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"><img width="679" height="62" alt="image" src="https://github.com/user-attachments/assets/c79b67ea-04e3-499e-b532-9b45cd04d3c1" />
 
 
