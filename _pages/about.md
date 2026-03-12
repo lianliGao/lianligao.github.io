@@ -99,6 +99,7 @@ Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H
 
 [**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning.**](https://arxiv.org/abs/2505.13888) \\
 J. Zhang, S. Wu, X. Luo, H. Wu, **Lianli Gao**,  H. T. Shen, J. Song\\
+IEEE International Conference on Robotics & Automation (ICRA), 2026\\
 <a href="https://arxiv.org/pdf/2505.13888"><strong>Paper</strong></a>
 \|
 <a href="https://koorye.github.io/proj/Inspire/"><strong>Project</strong></a>
@@ -113,6 +114,7 @@ J. Zhang, S. Wu, X. Luo, H. Wu, **Lianli Gao**,  H. T. Shen, J. Song\\
 
 [**Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation.**](https://arxiv.org/pdf/2508.06426) \\
 Y. Xing, X. Luo, J. Xie, **Lianli Gao**,  H. T. Shen, J. Song\\
+The Conference on Robot Learning (CoRL), 2026\\
 <a href="https://arxiv.org/pdf/2505.13888"><strong>Paper</strong></a>
 \|
 <a href="https://lucky-light-sun.github.io/proj/shortcut-learning-in-grps/"><strong>Project</strong></a>
@@ -129,7 +131,7 @@ Y. Xing, X. Luo, J. Xie, **Lianli Gao**,  H. T. Shen, J. Song\\
 
 [**Policy Contrastive Decoding for Robotic Foundation Models.**](https://arxiv.org/abs/2505.13255) \\
 S. Wu, J. Zhang, X. Luo,  J. Xie, J. Song,  and H. T. Shen,  **Lianli Gao**\\
-ICLR, 2026\\
+ International Conference on Learning Representations (ICLR), 2026\\
 <a href="https://arxiv.org/abs/2505.13255"><strong>Paper</strong></a>
 \|
 <a href="https://koorye.github.io/proj/PCD/"><strong>Project</strong></a>
