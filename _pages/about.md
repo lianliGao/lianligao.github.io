@@ -94,7 +94,7 @@ Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InSpire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InspireF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning.**](https://arxiv.org/abs/2505.13888) \\
@@ -109,7 +109,7 @@ IEEE International Conference on Robotics & Automation (ICRA), 2026\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InSpire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/shortcut.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation.**](https://arxiv.org/pdf/2508.06426) \\
