@@ -108,12 +108,28 @@ J. Zhang, S. Wu, X. Luo, H. Wu, **Lianli Gao**,  H. T. Shen, J. Song\\
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/InSpire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation.**](https://arxiv.org/pdf/2508.06426) \\
+Y. Xing, X. Luo, J. Xie, **Lianli Gao**,  H. T. Shen, J. Song\\
+<a href="https://arxiv.org/pdf/2505.13888"><strong>Paper</strong></a>
+\|
+<a href="https://lucky-light-sun.github.io/proj/shortcut-learning-in-grps/"><strong>Project</strong></a>
+
+** Identifying shortcut learning as a key impediment to the generalization of generalist robot policies and providing a comprehensive analysis.**
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025 Robotic AI </div><img src='images/papers/PCD.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"><img width="679" height="62" alt="image" src="https://github.com/user-attachments/assets/c79b67ea-04e3-499e-b532-9b45cd04d3c1" />
+
 
 [**Policy Contrastive Decoding for Robotic Foundation Models.**](https://arxiv.org/abs/2505.13255) \\
 S. Wu, J. Zhang, X. Luo,  J. Xie, J. Song,  and H. T. Shen,  **Lianli Gao**\\
+ICLR, 2026\\
 <a href="https://arxiv.org/abs/2505.13255"><strong>Paper</strong></a>
 \|
 <a href="https://koorye.github.io/proj/PCD/"><strong>Project</strong></a>
