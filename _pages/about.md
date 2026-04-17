@@ -37,7 +37,9 @@ Her Teaching covers a wide range of courses at different levels for both interna
 
 - *2025.10*: &nbsp; We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models!!
 - *2026.04*: &nbsp; one Papers accepted by TPAMI 2026 on Few-shot Learning!  congratulations to Ji Zhang and Xu Luo!!
-- *2026.04*: &nbsp; one Papers accepted by IJCV 2026 Multimedia analysis!  congratulations to Pengpeng Zeng and Yihang Duan!!
+- *2026.03*: &nbsp; one Papers accepted by IJCV 2026 Multimedia analysis!  congratulations to Pengpeng Zeng and Yihang Duan!!
+- *2026.02*: &nbsp; one Papers accepted by IJCV 2026 Prompt Tuning!  congratulations to Ji Zhang and Shihan Wu!!
+  - 
 - *2025.09*: &nbsp; three Papers accepted by NeurIPS 2025 on AI Safety!  congratulations to Chenhang Cui, Beitao Chen, Shengming Yuan!!
 - *2025.07*: &nbsp; One Paper accepted by TIP 2025 on Text-Video Retrieval!  congratulations to Haonan Zhang!!
 - *2025.06*: &nbsp; One Paper accepted by TPAMI 2025 on Reliable Few-shot Learning!  congratulations to Ji Zhang!!
