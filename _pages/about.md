@@ -36,6 +36,8 @@ Her Teaching covers a wide range of courses at different levels for both interna
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
 
 - *2025.10*: &nbsp; We release [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models!!
+- *2026.04*: &nbsp; one Papers accepted by TPAMI 2026 on Few-shot Learning!  congratulations to Ji Zhang and Xu Luo!!
+- *2026.04*: &nbsp; one Papers accepted by IJCV 2026 Multimedia analysis!  congratulations to Pengpeng Zeng and Yihang Duan!!
 - *2025.09*: &nbsp; three Papers accepted by NeurIPS 2025 on AI Safety!  congratulations to Chenhang Cui, Beitao Chen, Shengming Yuan!!
 - *2025.07*: &nbsp; One Paper accepted by TIP 2025 on Text-Video Retrieval!  congratulations to Haonan Zhang!!
 - *2025.06*: &nbsp; One Paper accepted by TPAMI 2025 on Reliable Few-shot Learning!  congratulations to Ji Zhang!!
@@ -92,6 +94,20 @@ Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H
 **The first comprehensive review of Efficient Vision-Language-Action models (Efficient VLAs) across the entire data-model-training process**
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Few-shot Learning </div><img src='images/papers/LIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**From Channel Bias to Feature Redundancy: Uncovering the “Less is More” Principle in Few-Shot Learning.**](https://arxiv.org/abs/2510.24795) \\
+J. Zhang, X. Luo, **Lianli Gao**, D. Z, H. T. Shen,  J. Song\\
+<a href="https://ieeexplore.ieee.org/abstract/document/11435301"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/Frankluox/Channel_Importance_FSL"><strong>Project</strong></a>
+**provides a foundational principle for few-shot representation transfer and a practical method for developing more robust few-shot learning algorithms**
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Robotic AI </div><img src='images/papers/InspireF.png' alt="sym" width="100%"></div></div>
