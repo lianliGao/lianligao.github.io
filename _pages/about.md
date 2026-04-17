@@ -103,6 +103,7 @@ Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H
 
 [**From Channel Bias to Feature Redundancy: Uncovering the “Less is More” Principle in Few-Shot Learning.**](https://arxiv.org/abs/2510.24795) \\
 J. Zhang, X. Luo, **Lianli Gao**, D. Z, H. T. Shen,  J. Song\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026\\
 <a href="https://ieeexplore.ieee.org/abstract/document/11435301"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Frankluox/Channel_Importance_FSL"><strong>Project</strong></a>
