@@ -106,6 +106,7 @@ J. Zhang, X. Luo, **Lianli Gao**, D. Z, H. T. Shen,  J. Song\\
 <a href="https://ieeexplore.ieee.org/abstract/document/11435301"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/Frankluox/Channel_Importance_FSL"><strong>Project</strong></a>
+
 **provides a foundational principle for few-shot representation transfer and a practical method for developing more robust few-shot learning algorithms**
 </div>
 </div>
