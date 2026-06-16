@@ -564,11 +564,12 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
 # 🙋 Supervisions
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 - **Current Ph.D students:**
-  - Kaipeng Fang, Xiao Cai (Enrolled in _Jun. 2023_)
-  - Xu Luo, Haonan Zhang (Enrolled in _Jun. 2022_)
+  - Yijun Xue, Yinghang Duan, Jiawei Zhou (Enrolled in _Jun. 2025_)
+  - Junhong Zhu, Youguang Xing, Hao Wu (Enrolled in _Jun. 2024_)
+  - Kaipeng Fang, Xiao Cai, Beitao Chen, Shengming Yuan (Enrolled in _Jun. 2023_)
+  - Xu Luo, Haonan Zhang, Chen Chen (Enrolled in _Jun. 2022_)
   - Hao Ni, Sitong su (Enrolled in _Jun. 2021_)
   - Ji Zhang, Xinyu Lyu, and Juncheng Zhu (Enrolled in _Jun. 2020_)
-  
 - **Former Ph.D students:**
   - Tao He (Co-supervisor Monash University _Jun.2018 - Nov. 2022_)
     
