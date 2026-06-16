@@ -504,7 +504,7 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
   - *OPPO 2021:* Security Challenge 2nd Place award.
   - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Academic Services:**
-    *To date:* NeurIPS Area Chair, ICCV Area Chair, CVPR Area Chair, ECCV Area Chair, WACV Area Chair, AAAI Area Chair, ACM MM Area Chair, BMVC Area Chair, etc.
+  - *To date:* NeurIPS Area Chair, ICCV Area Chair, CVPR Area Chair, ECCV Area Chair, WACV Area Chair, AAAI Area Chair, ACM MM Area Chair, BMVC Area Chair, etc.
   - *2026:* Area Chair of WACV 2026, Program Committee of AAAI 2026, Area Chair of CVPR 2026,  Area Chair of ACM MM,  Area Chair of ICCV,  Area Chair of NeurIPS.
   - *2025:* Senior program committee of AAAI 2025, ICME Area Chair, AAAI Area Chair, CVPR Area Chair, ICCV Area Chair, ACM MM Area Chair.
   - *2024:* General Chair of Inaugural Young Scientists Salon on Artificial Intelligence.
