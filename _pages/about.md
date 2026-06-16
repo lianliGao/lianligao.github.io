@@ -98,6 +98,50 @@ Z. Yu, B. Wang, P. Zeng, H. Zhang, J. Zhang, **Lianli Gao**, J. Song, N. Sebe, H
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Continual Learning </div><img src='images/papers/JANUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning.**](https://icml.cc/virtual/2026/poster/63423) \\
+C. Chen, P. Zeng, Y. Guo, J. Song, H. T. Shen, **Lianli Gao**\\
+<a href="https://icml.cc/virtual/2026/poster/63423"><strong>Paper</strong></a>
+\|
+<a href="https://icml.cc/virtual/2026/poster/63423"><strong>Project</strong></a>
+
+**Janus-LoRA, a framework that restores this balance through two novel components: Gradient Rectification and Decoupled Margin Loss.**
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 AIGC </div><img src='images/papers/TIMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity.**](https://icml.cc/virtual/2026/poster/66799) \\
+X. Cai, **Lianli Gao**, P. Zeng, J. Zhang, H. T. Shen,  J. Song\\
+<a href="https://cdawn628.github.io/TIMI-Page/"><strong>Paper</strong></a>
+\|
+<a href="https://cdawn628.github.io/TIMI-Page/"><strong>Project</strong></a>
+
+**TIMI, a novel Training-free framework for Image-to-3D Multi-Instance generation that achieves high spatial fidelity.**
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 AI Safety </div><img src='images/papers/TIMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs.**](https://icml.cc/virtual/2026/poster/66799) \\
+S Wang, X Lyu, S. Yuan, J. Song, H. T. Shen, **Lianli Gao**\\
+<a href="https://cdawn628.github.io/TIMI-Page/"><strong>Paper</strong></a>
+\|
+<a href="https://cdawn628.github.io/TIMI-Page/"><strong>Project</strong></a>
+
+**TIMI, a novel Training-free framework for Image-to-3D Multi-Instance generation that achieves high spatial fidelity.**
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2026 Few-shot Learning </div><img src='images/papers/LIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
