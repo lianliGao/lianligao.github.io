@@ -129,11 +129,11 @@ X. Cai, **Lianli Gao**, P. Zeng, J. Zhang, H. T. Shen,  J. Song\\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICML 2026 AI Safety </div><img src='images/papers/sap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs.**](https://icml.cc/virtual/2026/poster/66799) \\
+[**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs.**](https://icml.cc/virtual/2026/poster/65493) \\
 S Wang, X Lyu, S. Yuan, J. Song, H. T. Shen, **Lianli Gao**\\
-<a href="https://cdawn628.github.io/TIMI-Page/"><strong>Paper</strong></a>
+<a href="https://icml.cc/virtual/2026/poster/65493"><strong>Paper</strong></a>
 \|
-<a href="https://cdawn628.github.io/TIMI-Page/"><strong>Project</strong></a>
+<a href="https://icml.cc/virtual/2026/poster/65493"><strong>Project</strong></a>
 
 **Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs..**
 </div>
