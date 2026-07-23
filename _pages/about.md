@@ -549,7 +549,8 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
   - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Academic Services:**
   - *To date:* NeurIPS Area Chair, CVPR Area Chair, ICCV Area Chair, ECCV Area Chair,  ACM MM Area Chair, AAAI Area Chair, WACV Area Chair, BMVC Area Chair, etc.
-  - *2026:* Area Chair of WACV 2026, Program Committee of AAAI 2026, Area Chair of CVPR 2026,  Area Chair of ACM MM,  Area Chair of ECCV,  Area Chair of NeurIPS.
+  - - *2027:*Senior Program Committee of AAAI 2027, WACV Area Chair
+  - *2026:* Area Chair of WACV 2026, Senior Program Committee of AAAI 2026, Area Chair of CVPR 2026,  Area Chair of ACM MM,  Area Chair of ECCV,  Area Chair of NeurIPS,  WACV Area Chair.
   - *2025:* Senior program committee of AAAI 2025, ICME Area Chair, AAAI Area Chair, CVPR Area Chair, ICCV Area Chair, ACM MM Area Chair.
   - *2024:* General Chair of Inaugural Young Scientists Salon on Artificial Intelligence.
   - *2024:* Associate Editor for IEEE Transactions on Multimedia 2024!
