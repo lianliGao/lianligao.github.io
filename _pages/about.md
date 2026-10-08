@@ -35,10 +35,11 @@ Her Teaching covers a wide range of courses at different levels for both interna
 <!-- -
 - *2025.02*: &nbsp; Board member of Tibet Science and Technology Awards and Recognition (Serviced as: Vice-Chair of Electronic Science and Information Science Track 2025)   -->
 
-- *2026.10*: &nbsp; Served as Guest Editor for a Special Issue, "Towards Reliable and Trustworthy Vision Language Models", in the journal Big Data and Cognitive Computing
+- *2026.10*: &nbsp; Served as Guest Editor for a Special Issue, "Towards Reliable and Trustworthy Vision Language Models", in the journal Big Data and Cognitive Computing!!
   
 - *2026.09*: &nbsp; our Survey [A Survey on Efficient Vision-Language-Action Models](https://evla-survey.github.io/), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, has been accepted by TPAMI!! congratulations to Zhaoshu Yu!!
 - *2026.04*: &nbsp; Three Papers accepted by ICML 2026 on 3D Generation, AI Safet,y and Continue Learning!  congratulations to Xiao Cai, Shuailong Wang, and Chen Chen !!
+- *2026.04*: &nbsp; Served as Associate Editor for IEEE Transactions on Image Processing 2026 !!
 - *2026.04*: &nbsp; one Paper accepted by TPAMI 2026 on Few-shot Learning!  congratulations to Ji Zhang and Xu Luo!!
 - *2026.03*: &nbsp; one Paper accepted by IJCV 2026 Multimedia analysis!  congratulations to Pengpeng Zeng and Yihang Duan!!
 - *2026.02*: &nbsp; one Papers accepted by IJCV 2026 Prompt Tuning!  congratulations to Ji Zhang and Shihan Wu!!
@@ -551,7 +552,7 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
   - *ICCV 2019:* COCO DensePose Task Challenge 2nd place award.
 - **Academic Services:**
   - *To date:* NeurIPS Area Chair, CVPR Area Chair, ICCV Area Chair, ECCV Area Chair,  ACM MM Area Chair, AAAI Area Chair, WACV Area Chair, BMVC Area Chair, etc.
-  - - *2027:*Senior Program Committee of AAAI 2027, WACV Area Chair
+  - *2027:*Senior Program Committee of AAAI 2027, WACV Area Chair
   - *2026:* Associate Editor for IEEE Transactions on Image Processing 2026!
   - *2026: Guest Editor for a Special Issue, "Towards Reliable and Trustworthy Vision Language Models", in the journal Big Data and Cognitive Computing
   - *2026:* Area Chair of WACV 2026, Senior Program Committee of AAAI 2026, Area Chair of CVPR 2026,  Area Chair of ACM MM,  Area Chair of ECCV,  Area Chair of NeurIPS,  WACV Area Chair.
