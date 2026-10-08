@@ -552,6 +552,8 @@ _Proceedings of the 31st ACM International Conference on Multimedia_ (**ACM MM**
 - **Academic Services:**
   - *To date:* NeurIPS Area Chair, CVPR Area Chair, ICCV Area Chair, ECCV Area Chair,  ACM MM Area Chair, AAAI Area Chair, WACV Area Chair, BMVC Area Chair, etc.
   - - *2027:*Senior Program Committee of AAAI 2027, WACV Area Chair
+  - *2026:* Associate Editor for IEEE Transactions on Image Processing 2026!
+  - *2026: Guest Editor for a Special Issue, "Towards Reliable and Trustworthy Vision Language Models", in the journal Big Data and Cognitive Computing
   - *2026:* Area Chair of WACV 2026, Senior Program Committee of AAAI 2026, Area Chair of CVPR 2026,  Area Chair of ACM MM,  Area Chair of ECCV,  Area Chair of NeurIPS,  WACV Area Chair.
   - *2025:* Senior program committee of AAAI 2025, ICME Area Chair, AAAI Area Chair, CVPR Area Chair, ICCV Area Chair, ACM MM Area Chair.
   - *2024:* General Chair of Inaugural Young Scientists Salon on Artificial Intelligence.
